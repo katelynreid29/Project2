@@ -1,0 +1,8002 @@
+[
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 1,
+		"rental_date" : "2005-07-08 19:03:15",
+		"return_date" : "2005-07-11 21:29:15",
+		"customer_id" : 431
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 1,
+		"rental_date" : "2005-08-02 20:13:10",
+		"return_date" : "2005-08-11 21:35:10",
+		"customer_id" : 518
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 1,
+		"rental_date" : "2005-08-21 21:27:43",
+		"return_date" : "2005-08-30 22:26:43",
+		"customer_id" : 279
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 2,
+		"rental_date" : "2005-05-30 20:21:07",
+		"return_date" : "2005-06-06 00:36:07",
+		"customer_id" : 411
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 2,
+		"rental_date" : "2005-06-17 20:24:00",
+		"return_date" : "2005-06-23 17:45:00",
+		"customer_id" : 170
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 2,
+		"rental_date" : "2005-07-07 10:41:31",
+		"return_date" : "2005-07-11 06:25:31",
+		"customer_id" : 161
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 2,
+		"rental_date" : "2005-07-30 22:02:34",
+		"return_date" : "2005-08-06 02:09:34",
+		"customer_id" : 581
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 2,
+		"rental_date" : "2005-08-23 01:01:01",
+		"return_date" : "2005-08-30 20:08:01",
+		"customer_id" : 359
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 3,
+		"rental_date" : "2005-07-31 21:36:07",
+		"return_date" : "2005-08-03 23:59:07",
+		"customer_id" : 39
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 3,
+		"rental_date" : "2005-08-22 23:56:37",
+		"return_date" : "2005-08-25 18:58:37",
+		"customer_id" : 541
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 4,
+		"rental_date" : "2005-08-02 00:47:19",
+		"return_date" : "2005-08-03 00:02:19",
+		"customer_id" : 301
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 4,
+		"rental_date" : "2005-08-21 18:32:42",
+		"return_date" : "2005-08-23 21:09:42",
+		"customer_id" : 344
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 16,
+		"rental_date" : "2005-07-12 02:40:41",
+		"return_date" : "2005-07-16 04:56:41",
+		"customer_id" : 184
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 16,
+		"rental_date" : "2005-07-30 02:30:07",
+		"return_date" : "2005-08-02 08:24:07",
+		"customer_id" : 268
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 16,
+		"rental_date" : "2005-08-22 21:16:54",
+		"return_date" : "2005-08-31 00:38:54",
+		"customer_id" : 560
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 17,
+		"rental_date" : "2005-05-31 00:06:02",
+		"return_date" : "2005-06-06 02:30:02",
+		"customer_id" : 150
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 17,
+		"rental_date" : "2005-06-17 18:06:14",
+		"return_date" : "2005-06-22 23:52:14",
+		"customer_id" : 197
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 17,
+		"rental_date" : "2005-07-10 08:51:39",
+		"return_date" : "2005-07-12 14:44:39",
+		"customer_id" : 302
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 17,
+		"rental_date" : "2005-07-27 00:26:14",
+		"return_date" : "2005-08-03 20:00:14",
+		"customer_id" : 418
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 17,
+		"rental_date" : "2005-08-17 07:34:55",
+		"return_date" : "2005-08-18 04:07:55",
+		"customer_id" : 151
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 18,
+		"rental_date" : "2005-07-29 04:13:29",
+		"return_date" : "2005-08-04 07:09:29",
+		"customer_id" : 148
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 18,
+		"rental_date" : "2005-08-22 16:17:49",
+		"return_date" : "2005-08-25 20:12:49",
+		"customer_id" : 216
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 19,
+		"rental_date" : "2005-07-06 00:22:29",
+		"return_date" : "2005-07-07 22:15:29",
+		"customer_id" : 459
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 19,
+		"rental_date" : "2005-07-31 13:05:29",
+		"return_date" : "2005-08-08 12:33:29",
+		"customer_id" : 239
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 19,
+		"rental_date" : "2005-08-22 15:26:36",
+		"return_date" : "2005-08-31 10:47:36",
+		"customer_id" : 111
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 26,
+		"rental_date" : "2005-05-26 23:23:56",
+		"return_date" : "2005-06-01 19:56:56",
+		"customer_id" : 391
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 26,
+		"rental_date" : "2005-06-21 15:11:02",
+		"return_date" : "2005-06-25 14:12:02",
+		"customer_id" : 45
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 26,
+		"rental_date" : "2005-07-08 06:40:06",
+		"return_date" : "2005-07-16 05:51:06",
+		"customer_id" : 506
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 26,
+		"rental_date" : "2005-07-29 04:52:10",
+		"return_date" : "2005-07-30 04:01:10",
+		"customer_id" : 585
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 26,
+		"rental_date" : "2005-08-18 23:14:15",
+		"return_date" : "2005-08-22 20:23:15",
+		"customer_id" : 183
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 27,
+		"rental_date" : "2005-06-20 07:33:38",
+		"return_date" : "2005-06-29 11:45:38",
+		"customer_id" : 46
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 27,
+		"rental_date" : "2005-07-06 03:09:36",
+		"return_date" : "2005-07-12 02:15:36",
+		"customer_id" : 355
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 27,
+		"rental_date" : "2005-08-01 11:55:33",
+		"return_date" : "2005-08-08 16:42:33",
+		"customer_id" : 14
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 27,
+		"rental_date" : "2005-08-17 17:02:42",
+		"return_date" : "2005-08-21 16:40:42",
+		"customer_id" : 389
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 28,
+		"rental_date" : "2005-07-29 01:11:23",
+		"return_date" : "2005-07-31 01:53:23",
+		"customer_id" : 5
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 28,
+		"rental_date" : "2005-08-20 12:32:32",
+		"return_date" : "2005-08-29 10:48:32",
+		"customer_id" : 209
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 32,
+		"rental_date" : "2005-08-02 07:34:19",
+		"return_date" : "2005-08-07 09:30:19",
+		"customer_id" : 369
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 32,
+		"rental_date" : "2005-08-22 05:58:27",
+		"return_date" : "2005-08-31 10:08:27",
+		"customer_id" : 471
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 33,
+		"rental_date" : "2005-06-20 21:11:50",
+		"return_date" : "2005-06-29 19:35:50",
+		"customer_id" : 388
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 33,
+		"rental_date" : "2005-07-08 22:29:59",
+		"return_date" : "2005-07-15 21:51:59",
+		"customer_id" : 273
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 33,
+		"rental_date" : "2005-08-01 00:48:24",
+		"return_date" : "2005-08-06 23:53:24",
+		"customer_id" : 87
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 33,
+		"rental_date" : "2005-08-22 17:18:05",
+		"return_date" : "2005-08-29 14:35:05",
+		"customer_id" : 81
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 41,
+		"rental_date" : "2005-07-10 12:10:11",
+		"return_date" : "2005-07-19 06:56:11",
+		"customer_id" : 305
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 41,
+		"rental_date" : "2005-07-31 18:47:20",
+		"return_date" : "2005-08-03 22:53:20",
+		"customer_id" : 491
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 41,
+		"rental_date" : "2005-08-23 14:26:51",
+		"return_date" : "2005-08-29 16:28:51",
+		"customer_id" : 158
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 42,
+		"rental_date" : "2005-07-06 18:32:49",
+		"return_date" : "2005-07-07 20:46:49",
+		"customer_id" : 507
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 42,
+		"rental_date" : "2005-07-29 22:49:00",
+		"return_date" : "2005-08-07 21:56:00",
+		"customer_id" : 372
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 42,
+		"rental_date" : "2005-08-23 08:03:25",
+		"return_date" : "2005-08-24 10:21:25",
+		"customer_id" : 214
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 43,
+		"rental_date" : "2005-07-28 08:49:39",
+		"return_date" : "2005-08-02 07:16:39",
+		"customer_id" : 547
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 43,
+		"rental_date" : "2005-08-23 13:26:01",
+		"return_date" : "2005-08-29 18:17:01",
+		"customer_id" : 514
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 46,
+		"rental_date" : "2005-06-17 08:06:53",
+		"return_date" : "2005-06-21 05:00:53",
+		"customer_id" : 89
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 46,
+		"rental_date" : "2005-07-12 12:50:19",
+		"return_date" : "2005-07-16 13:41:19",
+		"customer_id" : 470
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 46,
+		"rental_date" : "2005-07-27 08:00:36",
+		"return_date" : "2005-08-01 03:11:36",
+		"customer_id" : 570
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 46,
+		"rental_date" : "2005-08-19 11:23:20",
+		"return_date" : "2005-08-25 17:05:20",
+		"customer_id" : 259
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 47,
+		"rental_date" : "2005-08-01 18:18:13",
+		"return_date" : "2005-08-04 14:09:13",
+		"customer_id" : 120
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 47,
+		"rental_date" : "2005-08-19 20:25:24",
+		"return_date" : "2005-08-27 20:38:24",
+		"customer_id" : 55
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 48,
+		"rental_date" : "2005-08-01 10:17:47",
+		"return_date" : "2005-08-02 15:04:47",
+		"customer_id" : 358
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 48,
+		"rental_date" : "2005-08-21 20:49:21",
+		"return_date" : "2005-08-26 01:39:21",
+		"customer_id" : 409
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 49,
+		"rental_date" : "2005-07-07 21:22:26",
+		"return_date" : "2005-07-16 00:59:26",
+		"customer_id" : 370
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 49,
+		"rental_date" : "2005-08-01 00:58:52",
+		"return_date" : "2005-08-10 01:16:52",
+		"customer_id" : 391
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 49,
+		"rental_date" : "2005-08-20 15:17:38",
+		"return_date" : "2005-08-21 21:11:38",
+		"customer_id" : 481
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 53,
+		"rental_date" : "2005-05-28 09:10:49",
+		"return_date" : "2005-06-06 11:32:49",
+		"customer_id" : 324
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 53,
+		"rental_date" : "2005-06-19 00:11:26",
+		"return_date" : "2005-06-25 02:19:26",
+		"customer_id" : 74
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 53,
+		"rental_date" : "2005-07-09 22:48:04",
+		"return_date" : "2005-07-10 17:56:04",
+		"customer_id" : 244
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 53,
+		"rental_date" : "2005-07-29 05:11:00",
+		"return_date" : "2005-07-30 05:30:00",
+		"customer_id" : 280
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 53,
+		"rental_date" : "2005-08-19 22:05:40",
+		"return_date" : "2005-08-22 01:31:40",
+		"customer_id" : 80
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 54,
+		"rental_date" : "2005-07-31 21:20:59",
+		"return_date" : "2005-08-02 23:14:59",
+		"customer_id" : 351
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 54,
+		"rental_date" : "2005-08-18 23:48:16",
+		"return_date" : "2005-08-20 18:13:16",
+		"customer_id" : 373
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 55,
+		"rental_date" : "2005-07-09 20:41:35",
+		"return_date" : "2005-07-14 00:15:35",
+		"customer_id" : 114
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 55,
+		"rental_date" : "2005-07-28 01:08:11",
+		"return_date" : "2005-08-01 03:32:11",
+		"customer_id" : 413
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 55,
+		"rental_date" : "2005-08-18 08:27:28",
+		"return_date" : "2005-08-25 02:58:28",
+		"customer_id" : 215
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 56,
+		"rental_date" : "2005-07-07 02:19:01",
+		"return_date" : "2005-07-10 01:12:01",
+		"customer_id" : 116
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 56,
+		"rental_date" : "2005-08-02 13:43:49",
+		"return_date" : "2005-08-08 13:16:49",
+		"customer_id" : 315
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 56,
+		"rental_date" : "2005-08-22 04:04:31",
+		"return_date" : "2005-08-31 02:30:31",
+		"customer_id" : 421
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 60,
+		"rental_date" : "2005-07-26 23:13:34",
+		"return_date" : "2005-07-30 19:14:34",
+		"customer_id" : 538
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 60,
+		"rental_date" : "2005-08-20 06:52:03",
+		"return_date" : "2005-08-27 07:43:03",
+		"customer_id" : 422
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 61,
+		"rental_date" : "2005-06-16 15:15:43",
+		"return_date" : "2005-06-23 10:14:43",
+		"customer_id" : 146
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 61,
+		"rental_date" : "2005-07-10 04:33:36",
+		"return_date" : "2005-07-12 08:13:36",
+		"customer_id" : 440
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 61,
+		"rental_date" : "2005-07-29 11:32:58",
+		"return_date" : "2005-08-05 07:21:58",
+		"customer_id" : 67
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 61,
+		"rental_date" : "2005-08-22 17:37:02",
+		"return_date" : "2005-08-25 18:45:02",
+		"customer_id" : 5
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 62,
+		"rental_date" : "2005-05-29 21:58:43",
+		"return_date" : "2005-06-06 00:54:43",
+		"customer_id" : 573
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 62,
+		"rental_date" : "2005-06-15 07:30:22",
+		"return_date" : "2005-06-18 11:31:22",
+		"customer_id" : 395
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 62,
+		"rental_date" : "2005-07-07 04:13:35",
+		"return_date" : "2005-07-10 23:58:35",
+		"customer_id" : 70
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 62,
+		"rental_date" : "2005-07-30 12:02:41",
+		"return_date" : "2005-08-05 15:23:41",
+		"customer_id" : 50
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 62,
+		"rental_date" : "2005-08-19 11:24:37",
+		"return_date" : "2005-08-21 05:48:37",
+		"customer_id" : 447
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 71,
+		"rental_date" : "2005-05-28 02:06:37",
+		"return_date" : "2005-05-29 06:57:37",
+		"customer_id" : 111
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 71,
+		"rental_date" : "2005-06-17 16:40:03",
+		"return_date" : "2005-06-20 21:34:03",
+		"customer_id" : 495
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 71,
+		"rental_date" : "2005-07-11 05:47:08",
+		"return_date" : "2005-07-20 07:52:08",
+		"customer_id" : 241
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 71,
+		"rental_date" : "2005-08-02 13:58:55",
+		"return_date" : "2005-08-05 18:09:55",
+		"customer_id" : 348
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 71,
+		"rental_date" : "2005-08-23 05:13:09",
+		"return_date" : "2005-08-30 08:58:09",
+		"customer_id" : 546
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 72,
+		"rental_date" : "2005-05-27 22:49:27",
+		"return_date" : "2005-05-30 17:46:27",
+		"customer_id" : 445
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 72,
+		"rental_date" : "2005-06-19 13:29:28",
+		"return_date" : "2005-06-24 11:15:28",
+		"customer_id" : 267
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 72,
+		"rental_date" : "2005-07-07 23:05:53",
+		"return_date" : "2005-07-16 01:46:53",
+		"customer_id" : 389
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 72,
+		"rental_date" : "2005-08-01 05:55:13",
+		"return_date" : "2005-08-10 10:23:13",
+		"customer_id" : 181
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 72,
+		"rental_date" : "2005-08-20 15:11:48",
+		"return_date" : "2005-08-21 18:26:48",
+		"customer_id" : 86
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 77,
+		"rental_date" : "2005-07-31 20:49:13",
+		"return_date" : "2005-08-05 15:55:13",
+		"customer_id" : 25
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 77,
+		"rental_date" : "2005-08-22 07:10:26",
+		"return_date" : "2005-08-28 07:22:26",
+		"customer_id" : 581
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 78,
+		"rental_date" : "2005-06-18 19:58:12",
+		"return_date" : "2005-06-28 01:35:12",
+		"customer_id" : 343
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 78,
+		"rental_date" : "2005-07-09 19:12:57",
+		"return_date" : "2005-07-14 15:44:57",
+		"customer_id" : 586
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 78,
+		"rental_date" : "2005-08-02 00:58:46",
+		"return_date" : "2005-08-10 02:13:46",
+		"customer_id" : 210
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 78,
+		"rental_date" : "2005-08-18 10:50:07",
+		"return_date" : "2005-08-21 08:06:07",
+		"customer_id" : 270
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 81,
+		"rental_date" : "2005-08-01 14:39:15",
+		"return_date" : "2005-08-08 11:31:15",
+		"customer_id" : 335
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 81,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 236
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 82,
+		"rental_date" : "2005-07-08 07:40:44",
+		"return_date" : "2005-07-12 03:48:44",
+		"customer_id" : 371
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 82,
+		"rental_date" : "2005-08-01 09:52:26",
+		"return_date" : "2005-08-05 06:52:26",
+		"customer_id" : 523
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 82,
+		"rental_date" : "2005-08-21 17:18:33",
+		"return_date" : "2005-08-26 11:36:33",
+		"customer_id" : 30
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 83,
+		"rental_date" : "2005-07-29 01:27:44",
+		"return_date" : "2005-08-07 05:01:44",
+		"customer_id" : 481
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 83,
+		"rental_date" : "2005-08-20 06:07:01",
+		"return_date" : "2005-08-27 04:59:01",
+		"customer_id" : 146
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 87,
+		"rental_date" : "2005-05-28 21:31:08",
+		"return_date" : "2005-06-02 20:56:08",
+		"customer_id" : 523
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 87,
+		"rental_date" : "2005-06-17 10:31:37",
+		"return_date" : "2005-06-22 11:17:37",
+		"customer_id" : 411
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 87,
+		"rental_date" : "2005-07-12 05:34:09",
+		"return_date" : "2005-07-21 07:37:09",
+		"customer_id" : 438
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 87,
+		"rental_date" : "2005-07-28 01:12:25",
+		"return_date" : "2005-08-02 03:48:25",
+		"customer_id" : 91
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 87,
+		"rental_date" : "2005-08-20 20:12:19",
+		"return_date" : "2005-08-23 00:23:19",
+		"customer_id" : 33
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 88,
+		"rental_date" : "2005-05-29 14:23:58",
+		"return_date" : "2005-05-30 17:44:58",
+		"customer_id" : 313
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 88,
+		"rental_date" : "2005-06-19 19:24:54",
+		"return_date" : "2005-06-25 01:19:54",
+		"customer_id" : 426
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 88,
+		"rental_date" : "2005-07-07 22:45:41",
+		"return_date" : "2005-07-16 23:30:41",
+		"customer_id" : 449
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 88,
+		"rental_date" : "2005-07-27 03:27:29",
+		"return_date" : "2005-08-01 07:00:29",
+		"customer_id" : 147
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 88,
+		"rental_date" : "2005-08-23 03:44:51",
+		"return_date" : "2005-08-25 03:09:51",
+		"customer_id" : 393
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 89,
+		"rental_date" : "2005-07-07 23:32:39",
+		"return_date" : "2005-07-12 01:38:39",
+		"customer_id" : 560
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 89,
+		"rental_date" : "2005-07-29 14:48:48",
+		"return_date" : "2005-08-03 18:11:48",
+		"customer_id" : 302
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 89,
+		"rental_date" : "2005-08-21 11:14:26",
+		"return_date" : "2005-08-28 08:34:26",
+		"customer_id" : 442
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 93,
+		"rental_date" : "2005-08-02 01:16:59",
+		"return_date" : "2005-08-03 02:41:59",
+		"customer_id" : 77
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 93,
+		"rental_date" : "2005-08-18 04:26:54",
+		"return_date" : "2005-08-23 06:40:54",
+		"customer_id" : 39
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 94,
+		"rental_date" : "2005-06-20 20:35:28",
+		"return_date" : "2005-06-26 01:01:28",
+		"customer_id" : 34
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 94,
+		"rental_date" : "2005-07-09 05:01:58",
+		"return_date" : "2005-07-18 08:17:58",
+		"customer_id" : 254
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 94,
+		"rental_date" : "2005-07-30 08:02:39",
+		"return_date" : "2005-08-06 12:02:39",
+		"customer_id" : 276
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 94,
+		"rental_date" : "2005-08-21 17:51:06",
+		"return_date" : "2005-08-28 15:36:06",
+		"customer_id" : 26
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 95,
+		"rental_date" : "2005-05-28 12:08:37",
+		"return_date" : "2005-05-29 16:25:37",
+		"customer_id" : 89
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 95,
+		"rental_date" : "2005-06-20 00:08:38",
+		"return_date" : "2005-06-23 19:35:38",
+		"customer_id" : 483
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 95,
+		"rental_date" : "2005-07-11 02:37:51",
+		"return_date" : "2005-07-16 22:34:51",
+		"customer_id" : 36
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 95,
+		"rental_date" : "2005-07-28 07:21:55",
+		"return_date" : "2005-08-03 06:33:55",
+		"customer_id" : 487
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 95,
+		"rental_date" : "2005-08-21 07:44:32",
+		"return_date" : "2005-08-22 09:02:32",
+		"customer_id" : 177
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 96,
+		"rental_date" : "2005-08-01 11:25:28",
+		"return_date" : "2005-08-10 09:19:28",
+		"customer_id" : 504
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 96,
+		"rental_date" : "2005-08-21 08:54:53",
+		"return_date" : "2005-08-30 14:27:53",
+		"customer_id" : 119
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 99,
+		"rental_date" : "2005-06-18 01:57:56",
+		"return_date" : "2005-06-23 20:34:56",
+		"customer_id" : 171
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 99,
+		"rental_date" : "2005-07-10 08:59:03",
+		"return_date" : "2005-07-15 07:21:03",
+		"customer_id" : 132
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 99,
+		"rental_date" : "2005-07-28 13:01:22",
+		"return_date" : "2005-08-03 15:27:22",
+		"customer_id" : 90
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 99,
+		"rental_date" : "2005-08-17 20:57:02",
+		"return_date" : "2005-08-25 19:04:02",
+		"customer_id" : 536
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 100,
+		"rental_date" : "2005-06-17 13:46:52",
+		"return_date" : "2005-06-18 15:42:52",
+		"customer_id" : 486
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 100,
+		"rental_date" : "2005-07-08 16:25:27",
+		"return_date" : "2005-07-11 11:35:27",
+		"customer_id" : 500
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 100,
+		"rental_date" : "2005-07-30 03:46:26",
+		"return_date" : "2005-08-08 06:12:26",
+		"customer_id" : 544
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 100,
+		"rental_date" : "2005-08-23 12:07:51",
+		"return_date" : "2005-08-24 13:23:51",
+		"customer_id" : 229
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 101,
+		"rental_date" : "2005-07-30 12:56:44",
+		"return_date" : "2005-08-08 09:41:44",
+		"customer_id" : 105
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 101,
+		"rental_date" : "2005-08-17 13:48:30",
+		"return_date" : "2005-08-18 15:55:30",
+		"customer_id" : 146
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 102,
+		"rental_date" : "2005-05-26 08:04:38",
+		"return_date" : "2005-05-27 09:32:38",
+		"customer_id" : 47
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 102,
+		"rental_date" : "2005-06-15 19:49:41",
+		"return_date" : "2005-06-17 15:17:41",
+		"customer_id" : 298
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 102,
+		"rental_date" : "2005-07-07 06:52:23",
+		"return_date" : "2005-07-14 06:12:23",
+		"customer_id" : 371
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 102,
+		"rental_date" : "2005-08-01 20:22:44",
+		"return_date" : "2005-08-04 19:48:44",
+		"customer_id" : 188
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 102,
+		"rental_date" : "2005-08-22 04:44:10",
+		"return_date" : "2005-08-25 05:09:10",
+		"customer_id" : 349
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 103,
+		"rental_date" : "2005-05-25 21:58:58",
+		"return_date" : "2005-06-03 17:50:58",
+		"customer_id" : 304
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 103,
+		"rental_date" : "2005-06-19 19:18:27",
+		"return_date" : "2005-06-27 21:48:27",
+		"customer_id" : 120
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 103,
+		"rental_date" : "2005-07-12 16:37:55",
+		"return_date" : "2005-07-21 16:04:55",
+		"customer_id" : 148
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 103,
+		"rental_date" : "2005-07-30 19:10:03",
+		"return_date" : "2005-08-06 21:54:03",
+		"customer_id" : 302
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 103,
+		"rental_date" : "2005-08-23 08:13:26",
+		"return_date" : "2005-08-25 05:18:26",
+		"customer_id" : 298
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 108,
+		"rental_date" : "2005-06-15 07:29:59",
+		"return_date" : "2005-06-16 13:26:59",
+		"customer_id" : 59
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 108,
+		"rental_date" : "2005-07-08 23:48:03",
+		"return_date" : "2005-07-15 23:51:03",
+		"customer_id" : 339
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 108,
+		"rental_date" : "2005-07-29 03:58:49",
+		"return_date" : "2005-08-01 05:16:49",
+		"customer_id" : 1
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 108,
+		"rental_date" : "2005-08-20 18:24:26",
+		"return_date" : "2005-08-21 21:19:26",
+		"customer_id" : 128
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 109,
+		"rental_date" : "2005-06-20 04:16:07",
+		"return_date" : "2005-06-21 05:04:07",
+		"customer_id" : 29
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 109,
+		"rental_date" : "2005-07-12 00:57:31",
+		"return_date" : "2005-07-14 20:41:31",
+		"customer_id" : 388
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 109,
+		"rental_date" : "2005-07-27 09:00:20",
+		"return_date" : "2005-08-04 03:09:20",
+		"customer_id" : 560
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 109,
+		"rental_date" : "2005-08-21 08:42:26",
+		"return_date" : "2005-08-23 09:18:26",
+		"customer_id" : 17
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 110,
+		"rental_date" : "2005-06-17 10:40:36",
+		"return_date" : "2005-06-23 14:23:36",
+		"customer_id" : 479
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 110,
+		"rental_date" : "2005-07-09 06:40:24",
+		"return_date" : "2005-07-13 10:28:24",
+		"customer_id" : 137
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 110,
+		"rental_date" : "2005-08-01 04:35:34",
+		"return_date" : "2005-08-06 02:27:34",
+		"customer_id" : 561
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 110,
+		"rental_date" : "2005-08-22 17:12:29",
+		"return_date" : "2005-08-24 20:46:29",
+		"customer_id" : 253
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 111,
+		"rental_date" : "2005-07-28 08:43:39",
+		"return_date" : "2005-08-04 14:33:39",
+		"customer_id" : 5
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 111,
+		"rental_date" : "2005-08-19 14:56:05",
+		"return_date" : "2005-08-25 14:37:05",
+		"customer_id" : 508
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 115,
+		"rental_date" : "2005-06-15 14:05:32",
+		"return_date" : "2005-06-16 15:31:32",
+		"customer_id" : 400
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 115,
+		"rental_date" : "2005-07-08 17:18:22",
+		"return_date" : "2005-07-14 14:40:22",
+		"customer_id" : 144
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 115,
+		"rental_date" : "2005-07-28 08:58:32",
+		"return_date" : "2005-07-29 14:11:32",
+		"customer_id" : 374
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 115,
+		"rental_date" : "2005-08-20 21:21:08",
+		"return_date" : "2005-08-22 23:19:08",
+		"customer_id" : 231
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 116,
+		"rental_date" : "2005-06-16 15:19:10",
+		"return_date" : "2005-06-25 11:39:10",
+		"customer_id" : 3
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 116,
+		"rental_date" : "2005-07-07 19:33:23",
+		"return_date" : "2005-07-12 22:36:23",
+		"customer_id" : 425
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 116,
+		"rental_date" : "2005-07-28 12:02:46",
+		"return_date" : "2005-08-01 12:08:46",
+		"customer_id" : 100
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 117,
+		"rental_date" : "2005-06-18 05:03:08",
+		"return_date" : "2005-06-26 05:43:08",
+		"customer_id" : 285
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 117,
+		"rental_date" : "2005-07-05 23:25:54",
+		"return_date" : "2005-07-09 17:38:54",
+		"customer_id" : 111
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 117,
+		"rental_date" : "2005-08-02 00:22:49",
+		"return_date" : "2005-08-07 04:38:49",
+		"customer_id" : 424
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 117,
+		"rental_date" : "2005-08-20 08:19:20",
+		"return_date" : "2005-08-28 06:26:20",
+		"customer_id" : 291
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 120,
+		"rental_date" : "2005-06-20 11:13:01",
+		"return_date" : "2005-06-28 16:15:01",
+		"customer_id" : 62
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 120,
+		"rental_date" : "2005-07-10 21:32:06",
+		"return_date" : "2005-07-19 21:35:06",
+		"customer_id" : 34
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 120,
+		"rental_date" : "2005-07-27 17:49:16",
+		"return_date" : "2005-07-28 15:05:16",
+		"customer_id" : 531
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 120,
+		"rental_date" : "2005-08-19 15:45:47",
+		"return_date" : "2005-08-26 21:10:47",
+		"customer_id" : 468
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 121,
+		"rental_date" : "2005-07-30 21:36:15",
+		"return_date" : "2005-08-07 16:54:15",
+		"customer_id" : 14
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 121,
+		"rental_date" : "2005-08-22 17:58:27",
+		"return_date" : "2005-08-30 14:55:27",
+		"customer_id" : 444
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 122,
+		"rental_date" : "2005-06-20 08:45:08",
+		"return_date" : "2005-06-22 04:26:08",
+		"customer_id" : 154
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 122,
+		"rental_date" : "2005-07-09 13:22:08",
+		"return_date" : "2005-07-16 09:25:08",
+		"customer_id" : 587
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 122,
+		"rental_date" : "2005-07-31 17:02:00",
+		"return_date" : "2005-08-08 11:11:00",
+		"customer_id" : 225
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 122,
+		"rental_date" : "2005-08-21 12:00:21",
+		"return_date" : "2005-08-23 17:00:21",
+		"customer_id" : 205
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 123,
+		"rental_date" : "2005-06-16 13:59:42",
+		"return_date" : "2005-06-18 19:54:42",
+		"customer_id" : 564
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 123,
+		"rental_date" : "2005-07-06 11:45:53",
+		"return_date" : "2005-07-13 15:27:53",
+		"customer_id" : 403
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 123,
+		"rental_date" : "2005-07-31 19:01:25",
+		"return_date" : "2005-08-06 14:21:25",
+		"customer_id" : 204
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 123,
+		"rental_date" : "2005-08-19 21:46:10",
+		"return_date" : "2005-08-24 01:16:10",
+		"customer_id" : 504
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 124,
+		"rental_date" : "2005-07-06 15:41:27",
+		"return_date" : "2005-07-09 09:48:27",
+		"customer_id" : 265
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 124,
+		"rental_date" : "2005-07-27 23:54:44",
+		"return_date" : "2005-07-29 01:24:44",
+		"customer_id" : 497
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 124,
+		"rental_date" : "2005-08-23 13:02:59",
+		"return_date" : "2005-08-24 17:45:59",
+		"customer_id" : 158
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 125,
+		"rental_date" : "2005-06-19 03:07:32",
+		"return_date" : "2005-06-23 23:09:32",
+		"customer_id" : 377
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 125,
+		"rental_date" : "2005-07-06 20:16:46",
+		"return_date" : "2005-07-10 17:24:46",
+		"customer_id" : 163
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 125,
+		"rental_date" : "2005-08-01 03:37:01",
+		"return_date" : "2005-08-05 23:03:01",
+		"customer_id" : 141
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 125,
+		"rental_date" : "2005-08-21 05:08:42",
+		"return_date" : "2005-08-29 23:36:42",
+		"customer_id" : 558
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 126,
+		"rental_date" : "2005-05-28 20:12:20",
+		"return_date" : "2005-06-04 14:44:20",
+		"customer_id" : 327
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 126,
+		"rental_date" : "2005-06-19 23:18:42",
+		"return_date" : "2005-06-20 22:38:42",
+		"customer_id" : 147
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 126,
+		"rental_date" : "2005-07-11 09:55:34",
+		"return_date" : "2005-07-13 10:01:34",
+		"customer_id" : 225
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 126,
+		"rental_date" : "2005-07-31 09:34:03",
+		"return_date" : "2005-08-08 05:30:03",
+		"customer_id" : 393
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 126,
+		"rental_date" : "2005-08-23 13:46:00",
+		"return_date" : "2005-08-30 11:49:00",
+		"customer_id" : 425
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 127,
+		"rental_date" : "2005-07-30 03:18:24",
+		"return_date" : "2005-08-08 08:50:24",
+		"customer_id" : 336
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 127,
+		"rental_date" : "2005-08-18 03:59:51",
+		"return_date" : "2005-08-25 08:54:51",
+		"customer_id" : 350
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 130,
+		"rental_date" : "2005-05-29 02:11:44",
+		"return_date" : "2005-06-04 20:23:44",
+		"customer_id" : 246
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 130,
+		"rental_date" : "2005-06-20 17:11:46",
+		"return_date" : "2005-06-21 11:48:46",
+		"customer_id" : 385
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 130,
+		"rental_date" : "2005-07-10 12:39:28",
+		"return_date" : "2005-07-11 14:08:28",
+		"customer_id" : 183
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 130,
+		"rental_date" : "2005-08-02 20:00:09",
+		"return_date" : "2005-08-09 01:30:09",
+		"customer_id" : 572
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 130,
+		"rental_date" : "2005-08-18 07:09:27",
+		"return_date" : "2005-08-21 03:44:27",
+		"customer_id" : 154
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 131,
+		"rental_date" : "2005-05-26 12:30:26",
+		"return_date" : "2005-06-01 13:26:26",
+		"customer_id" : 49
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 131,
+		"rental_date" : "2005-06-21 14:05:23",
+		"return_date" : "2005-06-29 19:13:23",
+		"customer_id" : 341
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 131,
+		"rental_date" : "2005-07-10 18:02:02",
+		"return_date" : "2005-07-11 23:24:02",
+		"customer_id" : 220
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 131,
+		"rental_date" : "2005-07-29 19:55:34",
+		"return_date" : "2005-07-30 14:11:34",
+		"customer_id" : 592
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 131,
+		"rental_date" : "2005-08-22 15:55:48",
+		"return_date" : "2005-08-29 19:10:48",
+		"customer_id" : 478
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 135,
+		"rental_date" : "2005-06-17 01:17:31",
+		"return_date" : "2005-06-25 02:11:31",
+		"customer_id" : 454
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 135,
+		"rental_date" : "2005-07-12 18:03:50",
+		"return_date" : "2005-07-16 16:30:50",
+		"customer_id" : 54
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 135,
+		"rental_date" : "2005-08-01 02:35:39",
+		"return_date" : "2005-08-06 06:50:39",
+		"customer_id" : 437
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 135,
+		"rental_date" : "2005-08-20 00:18:15",
+		"return_date" : "2005-08-24 19:36:15",
+		"customer_id" : 61
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 136,
+		"rental_date" : "2005-07-07 14:35:30",
+		"return_date" : "2005-07-11 10:41:30",
+		"customer_id" : 410
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 136,
+		"rental_date" : "2005-07-31 11:29:46",
+		"return_date" : "2005-08-08 15:49:46",
+		"customer_id" : 79
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 136,
+		"rental_date" : "2005-08-17 23:24:25",
+		"return_date" : "2005-08-25 03:08:25",
+		"customer_id" : 573
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 137,
+		"rental_date" : "2005-07-29 17:41:14",
+		"return_date" : "2005-08-01 18:22:14",
+		"customer_id" : 23
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 137,
+		"rental_date" : "2005-08-17 13:42:52",
+		"return_date" : "2005-08-26 14:04:52",
+		"customer_id" : 313
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 138,
+		"rental_date" : "2005-06-16 17:00:14",
+		"return_date" : "2005-06-17 12:12:14",
+		"customer_id" : 123
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 138,
+		"rental_date" : "2005-07-09 21:45:17",
+		"return_date" : "2005-07-11 22:43:17",
+		"customer_id" : 332
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 138,
+		"rental_date" : "2005-08-01 09:45:26",
+		"return_date" : "2005-08-06 06:28:26",
+		"customer_id" : 2
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 138,
+		"rental_date" : "2005-08-19 13:34:10",
+		"return_date" : "2005-08-21 18:33:10",
+		"customer_id" : 289
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 139,
+		"rental_date" : "2005-05-25 14:57:22",
+		"return_date" : "2005-06-01 18:32:22",
+		"customer_id" : 267
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 139,
+		"rental_date" : "2005-06-17 04:17:33",
+		"return_date" : "2005-06-20 00:06:33",
+		"customer_id" : 319
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 139,
+		"rental_date" : "2005-07-10 17:11:37",
+		"return_date" : "2005-07-14 21:43:37",
+		"customer_id" : 247
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 139,
+		"rental_date" : "2005-07-30 09:26:08",
+		"return_date" : "2005-08-08 09:52:08",
+		"customer_id" : 473
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 139,
+		"rental_date" : "2005-08-21 05:42:20",
+		"return_date" : "2005-08-26 06:20:20",
+		"customer_id" : 486
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 140,
+		"rental_date" : "2005-05-28 18:49:12",
+		"return_date" : "2005-06-01 20:50:12",
+		"customer_id" : 157
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 140,
+		"rental_date" : "2005-06-19 14:46:10",
+		"return_date" : "2005-06-22 20:17:10",
+		"customer_id" : 200
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 140,
+		"rental_date" : "2005-07-08 13:25:57",
+		"return_date" : "2005-07-11 17:36:57",
+		"customer_id" : 197
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 140,
+		"rental_date" : "2005-07-29 05:02:12",
+		"return_date" : "2005-08-04 08:52:12",
+		"customer_id" : 531
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 140,
+		"rental_date" : "2005-08-22 22:37:34",
+		"return_date" : "2005-08-26 00:36:34",
+		"customer_id" : 434
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 141,
+		"rental_date" : "2005-05-27 06:15:33",
+		"return_date" : "2005-06-01 02:50:33",
+		"customer_id" : 446
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 141,
+		"rental_date" : "2005-06-17 20:38:54",
+		"return_date" : "2005-06-22 23:06:54",
+		"customer_id" : 467
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 141,
+		"rental_date" : "2005-07-12 00:02:50",
+		"return_date" : "2005-07-21 02:08:50",
+		"customer_id" : 342
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 141,
+		"rental_date" : "2005-07-31 22:36:00",
+		"return_date" : "2005-08-02 00:03:00",
+		"customer_id" : 179
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 141,
+		"rental_date" : "2005-08-22 08:42:45",
+		"return_date" : "2005-08-24 05:20:45",
+		"customer_id" : 141
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 142,
+		"rental_date" : "2005-05-31 16:48:43",
+		"return_date" : "2005-06-02 19:17:43",
+		"customer_id" : 448
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 142,
+		"rental_date" : "2005-06-15 01:04:22",
+		"return_date" : "2005-06-24 06:48:22",
+		"customer_id" : 244
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 142,
+		"rental_date" : "2005-07-10 14:06:03",
+		"return_date" : "2005-07-17 17:59:03",
+		"customer_id" : 211
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 142,
+		"rental_date" : "2005-07-31 07:43:19",
+		"return_date" : "2005-08-05 11:11:19",
+		"customer_id" : 508
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 142,
+		"rental_date" : "2005-08-20 19:33:21",
+		"return_date" : "2005-08-24 20:55:21",
+		"customer_id" : 180
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 143,
+		"rental_date" : "2005-05-31 19:14:15",
+		"return_date" : "2005-06-02 17:13:15",
+		"customer_id" : 191
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 143,
+		"rental_date" : "2005-06-19 22:06:06",
+		"return_date" : "2005-06-25 22:30:06",
+		"customer_id" : 292
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 143,
+		"rental_date" : "2005-07-06 18:35:37",
+		"return_date" : "2005-07-10 00:06:37",
+		"customer_id" : 456
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 143,
+		"rental_date" : "2005-07-27 06:14:36",
+		"return_date" : "2005-08-02 05:18:36",
+		"customer_id" : 529
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 143,
+		"rental_date" : "2005-08-21 01:31:25",
+		"return_date" : "2005-08-23 02:32:25",
+		"customer_id" : 66
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 144,
+		"rental_date" : "2005-06-16 14:11:24",
+		"return_date" : "2005-06-22 15:26:24",
+		"customer_id" : 77
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 144,
+		"rental_date" : "2005-07-06 17:20:24",
+		"return_date" : "2005-07-09 22:33:24",
+		"customer_id" : 514
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 144,
+		"rental_date" : "2005-08-01 12:58:42",
+		"return_date" : "2005-08-03 07:18:42",
+		"customer_id" : 117
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 144,
+		"rental_date" : "2005-08-17 21:13:35",
+		"return_date" : "2005-08-22 19:18:35",
+		"customer_id" : 532
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 145,
+		"rental_date" : "2005-05-27 11:18:25",
+		"return_date" : "2005-05-28 07:10:25",
+		"customer_id" : 251
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 145,
+		"rental_date" : "2005-06-16 02:47:07",
+		"return_date" : "2005-06-24 03:12:07",
+		"customer_id" : 343
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 145,
+		"rental_date" : "2005-07-06 19:04:24",
+		"return_date" : "2005-07-15 17:48:24",
+		"customer_id" : 584
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 145,
+		"rental_date" : "2005-08-02 13:17:21",
+		"return_date" : "2005-08-09 09:53:21",
+		"customer_id" : 420
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 145,
+		"rental_date" : "2005-08-22 02:09:12",
+		"return_date" : "2005-08-31 05:43:12",
+		"customer_id" : 513
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 146,
+		"rental_date" : "2005-05-25 01:59:46",
+		"return_date" : "2005-05-26 01:01:46",
+		"customer_id" : 388
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 146,
+		"rental_date" : "2005-06-16 19:11:45",
+		"return_date" : "2005-06-19 15:34:45",
+		"customer_id" : 352
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 146,
+		"rental_date" : "2005-07-06 03:33:48",
+		"return_date" : "2005-07-07 22:39:48",
+		"customer_id" : 66
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 146,
+		"rental_date" : "2005-07-30 11:06:23",
+		"return_date" : "2005-08-05 05:29:23",
+		"customer_id" : 19
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 146,
+		"rental_date" : "2005-08-22 20:37:57",
+		"return_date" : "2005-08-25 21:56:57",
+		"customer_id" : 147
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 147,
+		"rental_date" : "2005-06-16 12:40:23",
+		"return_date" : "2005-06-20 09:18:23",
+		"customer_id" : 532
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 147,
+		"rental_date" : "2005-07-10 16:07:16",
+		"return_date" : "2005-07-14 19:48:16",
+		"customer_id" : 302
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 147,
+		"rental_date" : "2005-07-30 21:05:18",
+		"return_date" : "2005-08-05 23:52:18",
+		"customer_id" : 72
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 147,
+		"rental_date" : "2005-08-19 00:33:15",
+		"return_date" : "2005-08-28 02:16:15",
+		"customer_id" : 365
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 148,
+		"rental_date" : "2005-07-09 05:30:32",
+		"return_date" : "2005-07-11 02:20:32",
+		"customer_id" : 494
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 148,
+		"rental_date" : "2005-08-02 10:15:51",
+		"return_date" : "2005-08-09 09:18:51",
+		"customer_id" : 451
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 148,
+		"rental_date" : "2005-08-19 03:52:44",
+		"return_date" : "2005-08-24 22:27:44",
+		"customer_id" : 220
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 149,
+		"rental_date" : "2005-07-09 07:53:12",
+		"return_date" : "2005-07-16 05:30:12",
+		"customer_id" : 491
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 149,
+		"rental_date" : "2005-07-27 03:38:54",
+		"return_date" : "2005-07-31 01:13:54",
+		"customer_id" : 408
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 149,
+		"rental_date" : "2005-08-23 15:10:42",
+		"return_date" : "2005-08-29 09:28:42",
+		"customer_id" : 346
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 160,
+		"rental_date" : "2005-07-29 14:56:21",
+		"return_date" : "2005-07-31 16:56:21",
+		"customer_id" : 416
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 160,
+		"rental_date" : "2005-08-22 21:47:53",
+		"return_date" : "2005-08-27 17:54:53",
+		"customer_id" : 355
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 161,
+		"rental_date" : "2005-06-16 03:39:56",
+		"return_date" : "2005-06-22 05:40:56",
+		"customer_id" : 305
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 161,
+		"rental_date" : "2005-07-09 10:56:37",
+		"return_date" : "2005-07-13 05:45:37",
+		"customer_id" : 79
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 161,
+		"rental_date" : "2005-07-30 20:06:24",
+		"return_date" : "2005-08-06 22:36:24",
+		"customer_id" : 204
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 161,
+		"rental_date" : "2005-08-22 20:23:13",
+		"return_date" : "2005-08-29 18:23:13",
+		"customer_id" : 93
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 162,
+		"rental_date" : "2005-07-10 12:32:43",
+		"return_date" : "2005-07-12 13:11:43",
+		"customer_id" : 291
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 162,
+		"rental_date" : "2005-07-28 09:24:31",
+		"return_date" : "2005-08-05 05:11:31",
+		"customer_id" : 509
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 162,
+		"rental_date" : "2005-08-17 00:25:06",
+		"return_date" : "2005-08-22 21:13:06",
+		"customer_id" : 264
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 163,
+		"rental_date" : "2005-06-16 04:31:57",
+		"return_date" : "2005-06-22 01:25:57",
+		"customer_id" : 536
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 163,
+		"rental_date" : "2005-07-10 11:51:50",
+		"return_date" : "2005-07-19 17:40:50",
+		"customer_id" : 219
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 163,
+		"rental_date" : "2005-07-31 19:14:20",
+		"return_date" : "2005-08-05 19:45:20",
+		"customer_id" : 74
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 163,
+		"rental_date" : "2005-08-20 02:47:03",
+		"return_date" : "2005-08-28 07:43:03",
+		"customer_id" : 572
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 167,
+		"rental_date" : "2005-08-02 21:36:46",
+		"return_date" : "2005-08-10 01:48:46",
+		"customer_id" : 268
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 167,
+		"rental_date" : "2005-08-18 14:52:35",
+		"return_date" : "2005-08-26 09:45:35",
+		"customer_id" : 289
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 168,
+		"rental_date" : "2005-06-17 10:59:24",
+		"return_date" : "2005-06-23 07:30:24",
+		"customer_id" : 234
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 168,
+		"rental_date" : "2005-07-10 13:46:23",
+		"return_date" : "2005-07-14 17:19:23",
+		"customer_id" : 516
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 168,
+		"rental_date" : "2005-08-01 23:17:06",
+		"return_date" : "2005-08-09 17:22:06",
+		"customer_id" : 554
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 168,
+		"rental_date" : "2005-08-19 03:46:43",
+		"return_date" : "2005-08-20 08:38:43",
+		"customer_id" : 498
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 169,
+		"rental_date" : "2005-08-02 00:30:34",
+		"return_date" : "2005-08-07 00:16:34",
+		"customer_id" : 506
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 169,
+		"rental_date" : "2005-08-21 14:02:50",
+		"return_date" : "2005-08-22 16:45:50",
+		"customer_id" : 5
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 170,
+		"rental_date" : "2005-07-12 21:30:41",
+		"return_date" : "2005-07-15 03:19:41",
+		"customer_id" : 13
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 170,
+		"rental_date" : "2005-07-31 11:59:05",
+		"return_date" : "2005-08-06 10:38:05",
+		"customer_id" : 112
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 170,
+		"rental_date" : "2005-08-23 05:08:58",
+		"return_date" : "2005-08-24 04:24:58",
+		"customer_id" : 372
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 174,
+		"rental_date" : "2005-07-12 10:39:22",
+		"return_date" : "2005-07-18 13:52:22",
+		"customer_id" : 88
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 174,
+		"rental_date" : "2005-07-27 14:51:04",
+		"return_date" : "2005-07-31 16:03:04",
+		"customer_id" : 183
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 174,
+		"rental_date" : "2005-08-18 03:16:54",
+		"return_date" : "2005-08-22 04:48:54",
+		"customer_id" : 535
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 175,
+		"rental_date" : "2005-07-27 14:49:44",
+		"return_date" : "2005-07-28 20:00:44",
+		"customer_id" : 245
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 175,
+		"rental_date" : "2005-08-19 04:19:05",
+		"return_date" : "2005-08-25 09:50:05",
+		"customer_id" : 340
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 176,
+		"rental_date" : "2005-06-16 08:33:39",
+		"return_date" : "2005-06-25 07:51:39",
+		"customer_id" : 450
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 176,
+		"rental_date" : "2005-07-07 08:30:16",
+		"return_date" : "2005-07-12 07:52:16",
+		"customer_id" : 411
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 176,
+		"rental_date" : "2005-07-28 05:48:56",
+		"return_date" : "2005-08-04 07:33:56",
+		"customer_id" : 299
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 176,
+		"rental_date" : "2005-08-20 05:29:45",
+		"return_date" : "2005-08-26 06:49:45",
+		"customer_id" : 74
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 189,
+		"rental_date" : "2005-06-20 18:41:47",
+		"return_date" : "2005-06-24 20:54:47",
+		"customer_id" : 543
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 189,
+		"rental_date" : "2005-07-11 11:31:47",
+		"return_date" : "2005-07-15 09:28:47",
+		"customer_id" : 114
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 189,
+		"rental_date" : "2005-08-02 13:27:11",
+		"return_date" : "2005-08-03 14:36:11",
+		"customer_id" : 111
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 189,
+		"rental_date" : "2005-08-17 01:23:09",
+		"return_date" : "2005-08-23 21:02:09",
+		"customer_id" : 149
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 190,
+		"rental_date" : "2005-05-26 06:55:58",
+		"return_date" : "2005-05-27 10:54:58",
+		"customer_id" : 184
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 190,
+		"rental_date" : "2005-06-19 13:25:53",
+		"return_date" : "2005-06-24 17:12:53",
+		"customer_id" : 208
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 190,
+		"rental_date" : "2005-07-06 07:08:17",
+		"return_date" : "2005-07-13 12:30:17",
+		"customer_id" : 452
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 190,
+		"rental_date" : "2005-07-31 16:42:43",
+		"return_date" : "2005-08-02 11:05:43",
+		"customer_id" : 506
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 190,
+		"rental_date" : "2005-08-17 00:41:08",
+		"return_date" : "2005-08-19 00:25:08",
+		"customer_id" : 474
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 191,
+		"rental_date" : "2005-07-07 08:58:23",
+		"return_date" : "2005-07-14 03:16:23",
+		"customer_id" : 594
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 191,
+		"rental_date" : "2005-08-01 20:22:51",
+		"return_date" : "2005-08-10 16:11:51",
+		"customer_id" : 373
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 191,
+		"rental_date" : "2005-08-19 06:38:59",
+		"return_date" : "2005-08-25 09:09:59",
+		"customer_id" : 224
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 196,
+		"rental_date" : "2005-07-10 03:23:05",
+		"return_date" : "2005-07-16 07:46:05",
+		"customer_id" : 355
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 196,
+		"rental_date" : "2005-07-30 07:28:54",
+		"return_date" : "2005-08-02 05:23:54",
+		"customer_id" : 171
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 196,
+		"rental_date" : "2005-08-23 00:48:29",
+		"return_date" : "2005-08-28 00:33:29",
+		"customer_id" : 28
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 197,
+		"rental_date" : "2005-06-18 08:41:48",
+		"return_date" : "2005-06-22 03:36:48",
+		"customer_id" : 1
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 197,
+		"rental_date" : "2005-07-12 16:28:49",
+		"return_date" : "2005-07-15 17:27:49",
+		"customer_id" : 578
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 197,
+		"rental_date" : "2005-07-26 23:45:33",
+		"return_date" : "2005-07-31 04:40:33",
+		"customer_id" : 503
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 197,
+		"rental_date" : "2005-08-21 03:16:30",
+		"return_date" : "2005-08-29 06:25:30",
+		"customer_id" : 210
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 201,
+		"rental_date" : "2005-06-19 04:56:27",
+		"return_date" : "2005-06-26 08:56:27",
+		"customer_id" : 267
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 201,
+		"rental_date" : "2005-07-12 10:37:52",
+		"return_date" : "2005-07-13 15:13:52",
+		"customer_id" : 441
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 201,
+		"rental_date" : "2005-08-01 09:20:09",
+		"return_date" : "2005-08-03 11:36:09",
+		"customer_id" : 131
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 201,
+		"rental_date" : "2005-08-21 23:00:02",
+		"return_date" : "2005-08-26 18:58:02",
+		"customer_id" : 153
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 202,
+		"rental_date" : "2005-06-19 18:49:45",
+		"return_date" : "2005-06-21 00:13:45",
+		"customer_id" : 97
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 202,
+		"rental_date" : "2005-07-09 01:07:21",
+		"return_date" : "2005-07-10 05:48:21",
+		"customer_id" : 534
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 202,
+		"rental_date" : "2005-07-28 01:08:36",
+		"return_date" : "2005-08-03 21:36:36",
+		"customer_id" : 51
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 202,
+		"rental_date" : "2005-08-20 21:35:27",
+		"return_date" : "2005-08-23 03:29:27",
+		"customer_id" : 256
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 203,
+		"rental_date" : "2005-07-07 02:35:46",
+		"return_date" : "2005-07-16 01:12:46",
+		"customer_id" : 453
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 203,
+		"rental_date" : "2005-07-31 07:44:18",
+		"return_date" : "2005-08-08 12:45:18",
+		"customer_id" : 351
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 203,
+		"rental_date" : "2005-08-17 01:37:51",
+		"return_date" : "2005-08-17 20:30:51",
+		"customer_id" : 296
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 204,
+		"rental_date" : "2005-06-19 07:48:31",
+		"return_date" : "2005-06-27 11:56:31",
+		"customer_id" : 313
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 204,
+		"rental_date" : "2005-07-06 04:10:43",
+		"return_date" : "2005-07-14 22:17:43",
+		"customer_id" : 574
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 204,
+		"rental_date" : "2005-08-02 15:53:48",
+		"return_date" : "2005-08-03 16:32:48",
+		"customer_id" : 197
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 204,
+		"rental_date" : "2005-08-19 00:58:24",
+		"return_date" : "2005-08-21 05:46:24",
+		"customer_id" : 465
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 212,
+		"rental_date" : "2005-05-25 20:46:11",
+		"return_date" : "2005-05-30 00:47:11",
+		"customer_id" : 246
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 212,
+		"rental_date" : "2005-06-21 02:46:17",
+		"return_date" : "2005-06-22 20:58:17",
+		"customer_id" : 49
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 212,
+		"rental_date" : "2005-07-07 09:00:49",
+		"return_date" : "2005-07-13 10:59:49",
+		"customer_id" : 548
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 212,
+		"rental_date" : "2005-07-29 23:26:19",
+		"return_date" : "2005-08-05 03:59:19",
+		"customer_id" : 445
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 212,
+		"rental_date" : "2005-08-21 11:02:09",
+		"return_date" : "2005-08-29 06:44:09",
+		"customer_id" : 121
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 213,
+		"rental_date" : "2005-05-31 16:23:02",
+		"return_date" : "2005-06-03 20:00:02",
+		"customer_id" : 510
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 213,
+		"rental_date" : "2005-06-19 15:58:38",
+		"return_date" : "2005-06-27 15:01:38",
+		"customer_id" : 212
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 213,
+		"rental_date" : "2005-07-06 02:54:33",
+		"return_date" : "2005-07-14 07:44:33",
+		"customer_id" : 231
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 213,
+		"rental_date" : "2005-07-27 10:08:36",
+		"return_date" : "2005-07-31 16:00:36",
+		"customer_id" : 245
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 213,
+		"rental_date" : "2005-08-17 12:22:04",
+		"return_date" : "2005-08-25 15:59:04",
+		"customer_id" : 512
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 216,
+		"rental_date" : "2005-06-19 04:04:46",
+		"return_date" : "2005-06-19 23:39:46",
+		"customer_id" : 496
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 216,
+		"rental_date" : "2005-07-09 23:47:33",
+		"return_date" : "2005-07-13 01:09:33",
+		"customer_id" : 250
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 216,
+		"rental_date" : "2005-07-29 20:36:26",
+		"return_date" : "2005-07-30 15:06:26",
+		"customer_id" : 42
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 216,
+		"rental_date" : "2005-08-17 22:28:40",
+		"return_date" : "2005-08-22 02:05:40",
+		"customer_id" : 141
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 217,
+		"rental_date" : "2005-07-30 06:23:35",
+		"return_date" : "2005-08-06 11:10:35",
+		"customer_id" : 514
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 217,
+		"rental_date" : "2005-08-23 15:23:50",
+		"return_date" : "2005-09-01 19:31:50",
+		"customer_id" : 165
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 218,
+		"rental_date" : "2005-07-09 10:49:10",
+		"return_date" : "2005-07-13 04:52:10",
+		"customer_id" : 101
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 218,
+		"rental_date" : "2005-07-27 19:18:17",
+		"return_date" : "2005-07-30 18:55:17",
+		"customer_id" : 434
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 218,
+		"rental_date" : "2005-08-19 18:02:51",
+		"return_date" : "2005-08-21 23:17:51",
+		"customer_id" : 368
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 222,
+		"rental_date" : "2005-07-29 16:19:17",
+		"return_date" : "2005-08-01 15:28:17",
+		"customer_id" : 117
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 222,
+		"rental_date" : "2005-08-21 10:47:24",
+		"return_date" : "2005-08-27 08:18:24",
+		"customer_id" : 593
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 223,
+		"rental_date" : "2005-07-12 18:21:30",
+		"return_date" : "2005-07-14 15:14:30",
+		"customer_id" : 243
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 223,
+		"rental_date" : "2005-07-30 17:21:39",
+		"return_date" : "2005-08-06 16:58:39",
+		"customer_id" : 439
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 223,
+		"rental_date" : "2005-08-23 18:06:54",
+		"return_date" : "2005-08-30 20:19:54",
+		"customer_id" : 522
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 224,
+		"rental_date" : "2005-07-09 08:31:03",
+		"return_date" : "2005-07-10 08:18:03",
+		"customer_id" : 228
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 224,
+		"rental_date" : "2005-07-29 18:03:47",
+		"return_date" : "2005-08-06 18:53:47",
+		"customer_id" : 39
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 224,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 199
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 227,
+		"rental_date" : "2005-05-28 22:04:03",
+		"return_date" : "2005-06-06 22:43:03",
+		"customer_id" : 201
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 227,
+		"rental_date" : "2005-06-17 14:18:37",
+		"return_date" : "2005-06-22 19:08:37",
+		"customer_id" : 260
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 227,
+		"rental_date" : "2005-07-12 16:44:16",
+		"return_date" : "2005-07-16 14:48:16",
+		"customer_id" : 291
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 227,
+		"rental_date" : "2005-07-27 08:04:28",
+		"return_date" : "2005-07-29 14:00:28",
+		"customer_id" : 257
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 227,
+		"rental_date" : "2005-08-22 13:41:49",
+		"return_date" : "2005-08-28 15:25:49",
+		"customer_id" : 541
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 228,
+		"rental_date" : "2005-06-15 20:48:22",
+		"return_date" : "2005-06-21 19:48:22",
+		"customer_id" : 230
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 228,
+		"rental_date" : "2005-07-08 08:31:26",
+		"return_date" : "2005-07-17 12:07:26",
+		"customer_id" : 563
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 228,
+		"rental_date" : "2005-07-27 13:03:14",
+		"return_date" : "2005-07-31 07:56:14",
+		"customer_id" : 543
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 228,
+		"rental_date" : "2005-08-18 09:37:30",
+		"return_date" : "2005-08-27 13:11:30",
+		"customer_id" : 266
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 235,
+		"rental_date" : "2005-06-16 00:17:39",
+		"return_date" : "2005-06-22 05:38:39",
+		"customer_id" : 133
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 235,
+		"rental_date" : "2005-07-12 08:28:33",
+		"return_date" : "2005-07-17 06:25:33",
+		"customer_id" : 152
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 235,
+		"rental_date" : "2005-08-01 10:04:17",
+		"return_date" : "2005-08-06 11:32:17",
+		"customer_id" : 506
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 235,
+		"rental_date" : "2005-08-23 16:42:53",
+		"return_date" : "2005-08-29 16:21:53",
+		"customer_id" : 482
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 236,
+		"rental_date" : "2005-07-10 19:19:43",
+		"return_date" : "2005-07-12 20:11:43",
+		"customer_id" : 25
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 236,
+		"rental_date" : "2005-07-27 11:50:52",
+		"return_date" : "2005-07-30 15:53:52",
+		"customer_id" : 342
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 236,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 213
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 237,
+		"rental_date" : "2005-06-21 02:25:00",
+		"return_date" : "2005-06-23 05:46:00",
+		"customer_id" : 28
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 237,
+		"rental_date" : "2005-07-12 14:24:16",
+		"return_date" : "2005-07-15 08:31:16",
+		"customer_id" : 359
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 237,
+		"rental_date" : "2005-07-28 10:37:55",
+		"return_date" : "2005-08-04 13:22:55",
+		"customer_id" : 352
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 237,
+		"rental_date" : "2005-08-21 23:55:50",
+		"return_date" : "2005-08-28 04:31:50",
+		"customer_id" : 389
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 238,
+		"rental_date" : "2005-06-17 22:10:36",
+		"return_date" : "2005-06-18 21:07:36",
+		"customer_id" : 388
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 238,
+		"rental_date" : "2005-07-12 06:56:26",
+		"return_date" : "2005-07-20 05:53:26",
+		"customer_id" : 419
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 238,
+		"rental_date" : "2005-07-27 07:37:26",
+		"return_date" : "2005-08-03 06:39:26",
+		"customer_id" : 380
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 238,
+		"rental_date" : "2005-08-20 01:29:29",
+		"return_date" : "2005-08-21 22:36:29",
+		"customer_id" : 18
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 239,
+		"rental_date" : "2005-05-25 09:41:01",
+		"return_date" : "2005-05-27 13:46:01",
+		"customer_id" : 119
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 239,
+		"rental_date" : "2005-06-15 03:24:44",
+		"return_date" : "2005-06-21 22:45:44",
+		"customer_id" : 371
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 239,
+		"rental_date" : "2005-07-08 09:13:56",
+		"return_date" : "2005-07-10 12:09:56",
+		"customer_id" : 436
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 239,
+		"rental_date" : "2005-08-02 07:59:49",
+		"return_date" : "2005-08-11 06:01:49",
+		"customer_id" : 82
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 239,
+		"rental_date" : "2005-08-19 21:20:11",
+		"return_date" : "2005-08-25 22:51:11",
+		"customer_id" : 101
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 242,
+		"rental_date" : "2005-05-29 06:12:38",
+		"return_date" : "2005-06-03 07:41:38",
+		"customer_id" : 551
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 242,
+		"rental_date" : "2005-06-15 03:21:00",
+		"return_date" : "2005-06-19 03:39:00",
+		"customer_id" : 102
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 242,
+		"rental_date" : "2005-07-09 06:25:48",
+		"return_date" : "2005-07-16 11:32:48",
+		"customer_id" : 316
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 242,
+		"rental_date" : "2005-08-02 17:28:07",
+		"return_date" : "2005-08-09 21:55:07",
+		"customer_id" : 198
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 242,
+		"rental_date" : "2005-08-18 11:57:00",
+		"return_date" : "2005-08-26 13:17:00",
+		"customer_id" : 101
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 243,
+		"rental_date" : "2005-06-17 23:36:27",
+		"return_date" : "2005-06-19 19:25:27",
+		"customer_id" : 530
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 243,
+		"rental_date" : "2005-07-12 03:05:38",
+		"return_date" : "2005-07-19 07:12:38",
+		"customer_id" : 48
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 243,
+		"rental_date" : "2005-07-27 17:21:52",
+		"return_date" : "2005-08-05 17:13:52",
+		"customer_id" : 90
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 243,
+		"rental_date" : "2005-08-23 18:05:10",
+		"return_date" : "2005-08-26 18:09:10",
+		"customer_id" : 212
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 244,
+		"rental_date" : "2005-06-15 21:54:20",
+		"return_date" : "2005-06-19 18:46:20",
+		"customer_id" : 575
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 244,
+		"rental_date" : "2005-07-10 05:51:12",
+		"return_date" : "2005-07-17 09:56:12",
+		"customer_id" : 136
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 244,
+		"rental_date" : "2005-08-01 17:33:03",
+		"return_date" : "2005-08-04 23:12:03",
+		"customer_id" : 246
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 244,
+		"rental_date" : "2005-08-20 00:48:24",
+		"return_date" : "2005-08-28 04:13:24",
+		"customer_id" : 410
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 245,
+		"rental_date" : "2005-05-29 13:18:05",
+		"return_date" : "2005-06-07 17:22:05",
+		"customer_id" : 563
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 245,
+		"rental_date" : "2005-06-21 01:49:47",
+		"return_date" : "2005-06-25 06:31:47",
+		"customer_id" : 454
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 245,
+		"rental_date" : "2005-07-09 15:42:10",
+		"return_date" : "2005-07-16 21:27:10",
+		"customer_id" : 459
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 245,
+		"rental_date" : "2005-07-31 11:13:49",
+		"return_date" : "2005-08-04 06:18:49",
+		"customer_id" : 46
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 245,
+		"rental_date" : "2005-08-23 20:45:53",
+		"return_date" : "2005-08-27 15:52:53",
+		"customer_id" : 108
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 248,
+		"rental_date" : "2005-06-21 08:00:49",
+		"return_date" : "2005-06-29 04:11:49",
+		"customer_id" : 463
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 248,
+		"rental_date" : "2005-07-08 12:04:53",
+		"return_date" : "2005-07-13 11:28:53",
+		"customer_id" : 590
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 248,
+		"rental_date" : "2005-07-31 20:17:09",
+		"return_date" : "2005-08-01 19:14:09",
+		"customer_id" : 160
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 248,
+		"rental_date" : "2005-08-23 09:52:55",
+		"return_date" : "2005-08-29 11:15:55",
+		"customer_id" : 259
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 249,
+		"rental_date" : "2005-05-26 20:57:00",
+		"return_date" : "2005-06-05 01:34:00",
+		"customer_id" : 47
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 249,
+		"rental_date" : "2005-06-18 01:20:26",
+		"return_date" : "2005-06-25 00:30:26",
+		"customer_id" : 500
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 249,
+		"rental_date" : "2005-07-09 00:30:52",
+		"return_date" : "2005-07-15 23:50:52",
+		"customer_id" : 162
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 249,
+		"rental_date" : "2005-07-31 09:22:02",
+		"return_date" : "2005-08-02 14:34:02",
+		"customer_id" : 199
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 249,
+		"rental_date" : "2005-08-22 08:55:43",
+		"return_date" : "2005-08-31 05:35:43",
+		"customer_id" : 506
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 250,
+		"rental_date" : "2005-07-27 11:30:20",
+		"return_date" : "2005-07-29 17:16:20",
+		"customer_id" : 364
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 250,
+		"rental_date" : "2005-08-17 05:45:10",
+		"return_date" : "2005-08-19 06:47:10",
+		"customer_id" : 531
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 253,
+		"rental_date" : "2005-06-15 01:58:50",
+		"return_date" : "2005-06-16 20:30:50",
+		"customer_id" : 238
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 253,
+		"rental_date" : "2005-07-07 05:26:06",
+		"return_date" : "2005-07-12 00:45:06",
+		"customer_id" : 494
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 253,
+		"rental_date" : "2005-07-28 03:56:05",
+		"return_date" : "2005-07-31 03:29:05",
+		"customer_id" : 349
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 253,
+		"rental_date" : "2005-08-20 12:15:23",
+		"return_date" : "2005-08-27 06:24:23",
+		"customer_id" : 188
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 254,
+		"rental_date" : "2005-07-27 08:39:58",
+		"return_date" : "2005-08-01 03:12:58",
+		"customer_id" : 172
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 254,
+		"rental_date" : "2005-08-23 17:43:16",
+		"return_date" : "2005-08-24 21:55:16",
+		"customer_id" : 456
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 255,
+		"rental_date" : "2005-07-28 22:49:11",
+		"return_date" : "2005-07-30 04:13:11",
+		"customer_id" : 552
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 255,
+		"rental_date" : "2005-08-17 14:23:52",
+		"return_date" : "2005-08-21 14:23:52",
+		"customer_id" : 549
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 256,
+		"rental_date" : "2005-07-11 04:44:59",
+		"return_date" : "2005-07-13 01:00:59",
+		"customer_id" : 553
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 256,
+		"rental_date" : "2005-07-30 06:56:33",
+		"return_date" : "2005-08-08 06:40:33",
+		"customer_id" : 522
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 256,
+		"rental_date" : "2005-08-17 10:25:53",
+		"return_date" : "2005-08-22 08:37:53",
+		"customer_id" : 574
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 264,
+		"rental_date" : "2005-07-10 04:33:45",
+		"return_date" : "2005-07-16 04:04:45",
+		"customer_id" : 572
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 264,
+		"rental_date" : "2005-08-02 04:56:14",
+		"return_date" : "2005-08-07 01:39:14",
+		"customer_id" : 265
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 264,
+		"rental_date" : "2005-08-22 11:21:08",
+		"return_date" : "2005-08-30 08:18:08",
+		"customer_id" : 494
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 265,
+		"rental_date" : "2005-06-18 16:55:08",
+		"return_date" : "2005-06-20 12:40:08",
+		"customer_id" : 381
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 265,
+		"rental_date" : "2005-07-11 04:23:18",
+		"return_date" : "2005-07-19 02:21:18",
+		"customer_id" : 297
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 265,
+		"rental_date" : "2005-07-31 18:26:36",
+		"return_date" : "2005-08-09 16:16:36",
+		"customer_id" : 129
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 265,
+		"rental_date" : "2005-08-18 04:41:47",
+		"return_date" : "2005-08-27 07:00:47",
+		"customer_id" : 47
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 266,
+		"rental_date" : "2005-05-28 04:28:38",
+		"return_date" : "2005-06-02 08:19:38",
+		"customer_id" : 169
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 266,
+		"rental_date" : "2005-06-16 01:57:15",
+		"return_date" : "2005-06-18 23:30:15",
+		"customer_id" : 69
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 266,
+		"rental_date" : "2005-07-11 21:36:10",
+		"return_date" : "2005-07-17 15:50:10",
+		"customer_id" : 244
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 266,
+		"rental_date" : "2005-07-31 13:20:08",
+		"return_date" : "2005-08-01 18:17:08",
+		"customer_id" : 378
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 266,
+		"rental_date" : "2005-08-23 11:56:22",
+		"return_date" : "2005-08-29 16:10:22",
+		"customer_id" : 74
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 269,
+		"rental_date" : "2005-06-16 01:28:22",
+		"return_date" : "2005-06-17 06:57:22",
+		"customer_id" : 43
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 269,
+		"rental_date" : "2005-07-06 08:36:48",
+		"return_date" : "2005-07-10 11:31:48",
+		"customer_id" : 514
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 269,
+		"rental_date" : "2005-07-29 00:02:22",
+		"return_date" : "2005-07-31 04:05:22",
+		"customer_id" : 167
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 269,
+		"rental_date" : "2005-08-18 04:11:03",
+		"return_date" : "2005-08-25 01:20:03",
+		"customer_id" : 87
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 270,
+		"rental_date" : "2005-05-28 15:27:22",
+		"return_date" : "2005-06-02 20:01:22",
+		"customer_id" : 595
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 270,
+		"rental_date" : "2005-06-16 04:44:23",
+		"return_date" : "2005-06-18 03:44:23",
+		"customer_id" : 37
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 270,
+		"rental_date" : "2005-07-10 18:54:05",
+		"return_date" : "2005-07-19 15:41:05",
+		"customer_id" : 364
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 270,
+		"rental_date" : "2005-07-29 05:27:40",
+		"return_date" : "2005-07-30 02:52:40",
+		"customer_id" : 73
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 270,
+		"rental_date" : "2005-08-22 19:28:02",
+		"return_date" : "2005-08-31 20:04:02",
+		"customer_id" : 404
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 271,
+		"rental_date" : "2005-07-30 21:11:21",
+		"return_date" : "2005-08-05 19:00:21",
+		"customer_id" : 295
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 271,
+		"rental_date" : "2005-08-22 03:14:46",
+		"return_date" : "2005-08-25 03:53:46",
+		"customer_id" : 114
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 272,
+		"rental_date" : "2005-06-16 10:07:10",
+		"return_date" : "2005-06-21 09:23:10",
+		"customer_id" : 568
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 272,
+		"rental_date" : "2005-07-08 22:46:23",
+		"return_date" : "2005-07-16 17:19:23",
+		"customer_id" : 440
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 272,
+		"rental_date" : "2005-07-30 02:13:31",
+		"return_date" : "2005-08-01 01:34:31",
+		"customer_id" : 15
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 272,
+		"rental_date" : "2005-08-17 12:13:26",
+		"return_date" : "2005-08-22 17:15:26",
+		"customer_id" : 192
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 273,
+		"rental_date" : "2005-05-29 08:36:30",
+		"return_date" : "2005-06-05 11:30:30",
+		"customer_id" : 483
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 273,
+		"rental_date" : "2005-06-16 14:11:52",
+		"return_date" : "2005-06-25 08:49:52",
+		"customer_id" : 347
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 273,
+		"rental_date" : "2005-07-07 07:15:35",
+		"return_date" : "2005-07-14 12:10:35",
+		"customer_id" : 31
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 273,
+		"rental_date" : "2005-07-27 06:13:48",
+		"return_date" : "2005-08-01 02:50:48",
+		"customer_id" : 486
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 273,
+		"rental_date" : "2005-08-20 13:13:56",
+		"return_date" : "2005-08-25 09:46:56",
+		"customer_id" : 27
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 274,
+		"rental_date" : "2005-07-07 01:55:25",
+		"return_date" : "2005-07-08 02:43:25",
+		"customer_id" : 573
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 274,
+		"rental_date" : "2005-08-01 07:27:19",
+		"return_date" : "2005-08-04 12:30:19",
+		"customer_id" : 410
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 274,
+		"rental_date" : "2005-08-18 07:04:24",
+		"return_date" : "2005-08-19 08:36:24",
+		"customer_id" : 408
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 275,
+		"rental_date" : "2005-07-12 16:49:11",
+		"return_date" : "2005-07-19 12:11:11",
+		"customer_id" : 115
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 275,
+		"rental_date" : "2005-07-30 09:25:56",
+		"return_date" : "2005-08-03 03:36:56",
+		"customer_id" : 305
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 275,
+		"rental_date" : "2005-08-19 20:31:48",
+		"return_date" : "2005-08-21 21:01:48",
+		"customer_id" : 456
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 280,
+		"rental_date" : "2005-05-28 15:33:28",
+		"return_date" : "2005-06-04 12:27:28",
+		"customer_id" : 307
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 280,
+		"rental_date" : "2005-06-16 08:08:40",
+		"return_date" : "2005-06-17 11:12:40",
+		"customer_id" : 4
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 280,
+		"rental_date" : "2005-07-09 09:08:53",
+		"return_date" : "2005-07-14 06:01:53",
+		"customer_id" : 590
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 280,
+		"rental_date" : "2005-07-30 03:49:35",
+		"return_date" : "2005-08-06 23:28:35",
+		"customer_id" : 424
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 280,
+		"rental_date" : "2005-08-22 20:49:51",
+		"return_date" : "2005-08-26 23:27:51",
+		"customer_id" : 237
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 281,
+		"rental_date" : "2005-07-31 19:19:13",
+		"return_date" : "2005-08-01 16:09:13",
+		"customer_id" : 237
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 281,
+		"rental_date" : "2005-08-23 02:04:57",
+		"return_date" : "2005-08-28 07:05:57",
+		"customer_id" : 114
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 291,
+		"rental_date" : "2005-06-21 03:01:10",
+		"return_date" : "2005-06-24 06:59:10",
+		"customer_id" : 53
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 291,
+		"rental_date" : "2005-07-07 09:05:42",
+		"return_date" : "2005-07-09 04:28:42",
+		"customer_id" : 433
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 291,
+		"rental_date" : "2005-08-02 01:23:42",
+		"return_date" : "2005-08-03 23:27:42",
+		"customer_id" : 338
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 291,
+		"rental_date" : "2005-08-20 09:21:08",
+		"return_date" : "2005-08-29 12:33:08",
+		"customer_id" : 76
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 292,
+		"rental_date" : "2005-07-07 04:04:26",
+		"return_date" : "2005-07-10 22:35:26",
+		"customer_id" : 401
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 292,
+		"rental_date" : "2005-08-02 04:45:01",
+		"return_date" : "2005-08-04 03:32:01",
+		"customer_id" : 383
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 292,
+		"rental_date" : "2005-08-18 02:04:47",
+		"return_date" : "2005-08-25 20:45:47",
+		"customer_id" : 558
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 293,
+		"rental_date" : "2005-07-08 19:02:46",
+		"return_date" : "2005-07-17 20:17:46",
+		"customer_id" : 291
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 293,
+		"rental_date" : "2005-07-31 17:54:58",
+		"return_date" : "2005-08-05 17:24:58",
+		"customer_id" : 445
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 293,
+		"rental_date" : "2005-08-17 15:08:27",
+		"return_date" : "2005-08-18 17:10:27",
+		"customer_id" : 395
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 294,
+		"rental_date" : "2005-07-06 21:39:24",
+		"return_date" : "2005-07-11 16:10:24",
+		"customer_id" : 13
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 294,
+		"rental_date" : "2005-07-28 15:48:56",
+		"return_date" : "2005-08-06 13:40:56",
+		"customer_id" : 314
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 294,
+		"rental_date" : "2005-08-17 08:49:05",
+		"return_date" : "2005-08-22 08:53:05",
+		"customer_id" : 336
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 295,
+		"rental_date" : "2005-07-11 02:04:12",
+		"return_date" : "2005-07-13 02:43:12",
+		"customer_id" : 596
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 295,
+		"rental_date" : "2005-07-31 19:13:29",
+		"return_date" : "2005-08-06 15:44:29",
+		"customer_id" : 230
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 295,
+		"rental_date" : "2005-08-17 18:27:49",
+		"return_date" : "2005-08-21 00:04:49",
+		"customer_id" : 303
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 300,
+		"rental_date" : "2005-08-02 04:49:02",
+		"return_date" : "2005-08-10 08:13:02",
+		"customer_id" : 334
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 300,
+		"rental_date" : "2005-08-21 04:29:11",
+		"return_date" : "2005-08-24 02:50:11",
+		"customer_id" : 372
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 301,
+		"rental_date" : "2005-05-31 11:15:43",
+		"return_date" : "2005-06-07 12:02:43",
+		"customer_id" : 5
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 301,
+		"rental_date" : "2005-06-16 20:04:28",
+		"return_date" : "2005-06-23 22:30:28",
+		"customer_id" : 76
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 301,
+		"rental_date" : "2005-07-10 07:17:13",
+		"return_date" : "2005-07-15 12:13:13",
+		"customer_id" : 239
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 301,
+		"rental_date" : "2005-07-29 03:52:49",
+		"return_date" : "2005-08-02 22:53:49",
+		"customer_id" : 541
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 301,
+		"rental_date" : "2005-08-21 03:35:58",
+		"return_date" : "2005-08-28 00:28:58",
+		"customer_id" : 423
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 304,
+		"rental_date" : "2005-07-07 09:04:26",
+		"return_date" : "2005-07-08 09:55:26",
+		"customer_id" : 183
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 304,
+		"rental_date" : "2005-07-31 10:02:04",
+		"return_date" : "2005-08-04 07:44:04",
+		"customer_id" : 230
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 304,
+		"rental_date" : "2005-08-18 02:20:35",
+		"return_date" : "2005-08-26 01:27:35",
+		"customer_id" : 575
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 305,
+		"rental_date" : "2005-08-01 19:58:49",
+		"return_date" : "2005-08-10 19:00:49",
+		"customer_id" : 508
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 305,
+		"rental_date" : "2005-08-17 13:44:49",
+		"return_date" : "2005-08-21 17:20:49",
+		"customer_id" : 28
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 306,
+		"rental_date" : "2005-07-30 18:44:44",
+		"return_date" : "2005-08-08 23:55:44",
+		"customer_id" : 87
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 306,
+		"rental_date" : "2005-08-21 20:32:16",
+		"return_date" : "2005-08-26 16:17:16",
+		"customer_id" : 550
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 307,
+		"rental_date" : "2005-08-01 05:01:46",
+		"return_date" : "2005-08-10 02:41:46",
+		"customer_id" : 451
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 307,
+		"rental_date" : "2005-08-23 07:03:19",
+		"return_date" : "2005-08-31 07:50:19",
+		"customer_id" : 461
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 312,
+		"rental_date" : "2005-06-21 10:37:11",
+		"return_date" : "2005-06-30 05:04:11",
+		"customer_id" : 526
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 312,
+		"rental_date" : "2005-07-11 05:24:36",
+		"return_date" : "2005-07-16 03:49:36",
+		"customer_id" : 155
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 312,
+		"rental_date" : "2005-08-02 14:39:46",
+		"return_date" : "2005-08-05 10:19:46",
+		"customer_id" : 134
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 312,
+		"rental_date" : "2005-08-22 20:03:46",
+		"return_date" : "2005-08-30 01:51:46",
+		"customer_id" : 1
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 313,
+		"rental_date" : "2005-06-18 11:29:22",
+		"return_date" : "2005-06-21 10:29:22",
+		"customer_id" : 297
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 313,
+		"rental_date" : "2005-07-11 10:53:49",
+		"return_date" : "2005-07-17 14:54:49",
+		"customer_id" : 589
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 313,
+		"rental_date" : "2005-08-01 05:49:17",
+		"return_date" : "2005-08-10 05:57:17",
+		"customer_id" : 56
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 313,
+		"rental_date" : "2005-08-18 14:51:03",
+		"return_date" : "2005-08-19 13:30:03",
+		"customer_id" : 364
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 320,
+		"rental_date" : "2005-06-18 03:21:36",
+		"return_date" : "2005-06-21 07:45:36",
+		"customer_id" : 587
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 320,
+		"rental_date" : "2005-07-07 21:54:58",
+		"return_date" : "2005-07-14 16:14:58",
+		"customer_id" : 224
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 320,
+		"rental_date" : "2005-08-01 06:01:52",
+		"return_date" : "2005-08-05 03:56:52",
+		"customer_id" : 174
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 320,
+		"rental_date" : "2005-08-22 17:30:25",
+		"return_date" : "2005-08-23 14:13:25",
+		"customer_id" : 63
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 321,
+		"rental_date" : "2005-07-31 05:02:00",
+		"return_date" : "2005-08-02 02:04:00",
+		"customer_id" : 595
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 321,
+		"rental_date" : "2005-08-23 19:50:06",
+		"return_date" : "2005-08-29 14:51:06",
+		"customer_id" : 257
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 322,
+		"rental_date" : "2005-07-08 22:18:29",
+		"return_date" : "2005-07-13 03:47:29",
+		"customer_id" : 579
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 322,
+		"rental_date" : "2005-08-01 08:23:25",
+		"return_date" : "2005-08-05 04:29:25",
+		"customer_id" : 447
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 322,
+		"rental_date" : "2005-08-17 23:57:55",
+		"return_date" : "2005-08-21 20:09:55",
+		"customer_id" : 408
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 323,
+		"rental_date" : "2005-06-17 11:32:30",
+		"return_date" : "2005-06-22 13:37:30",
+		"customer_id" : 163
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 323,
+		"rental_date" : "2005-07-10 06:25:48",
+		"return_date" : "2005-07-17 09:07:48",
+		"customer_id" : 487
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 323,
+		"rental_date" : "2005-08-01 04:59:30",
+		"return_date" : "2005-08-05 02:26:30",
+		"customer_id" : 33
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 323,
+		"rental_date" : "2005-08-18 18:29:51",
+		"return_date" : "2005-08-27 22:51:51",
+		"customer_id" : 520
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 326,
+		"rental_date" : "2005-06-17 22:26:23",
+		"return_date" : "2005-06-26 17:10:23",
+		"customer_id" : 456
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 326,
+		"rental_date" : "2005-07-10 13:31:56",
+		"return_date" : "2005-07-18 07:32:56",
+		"customer_id" : 113
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 326,
+		"rental_date" : "2005-07-29 21:16:47",
+		"return_date" : "2005-08-07 22:09:47",
+		"customer_id" : 237
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 326,
+		"rental_date" : "2005-08-22 09:03:04",
+		"return_date" : "2005-08-29 04:03:04",
+		"customer_id" : 478
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 327,
+		"rental_date" : "2005-05-25 23:00:21",
+		"return_date" : "2005-05-29 17:12:21",
+		"customer_id" : 257
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 327,
+		"rental_date" : "2005-06-20 11:51:30",
+		"return_date" : "2005-06-25 16:42:30",
+		"customer_id" : 317
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 327,
+		"rental_date" : "2005-07-10 23:07:42",
+		"return_date" : "2005-07-18 23:13:42",
+		"customer_id" : 331
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 327,
+		"rental_date" : "2005-07-29 23:05:08",
+		"return_date" : "2005-08-06 00:24:08",
+		"customer_id" : 244
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 327,
+		"rental_date" : "2005-08-17 01:53:20",
+		"return_date" : "2005-08-19 00:15:20",
+		"customer_id" : 293
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 328,
+		"rental_date" : "2005-07-09 09:39:31",
+		"return_date" : "2005-07-17 11:56:31",
+		"customer_id" : 119
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 328,
+		"rental_date" : "2005-08-01 04:55:35",
+		"return_date" : "2005-08-07 08:17:35",
+		"customer_id" : 382
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 328,
+		"rental_date" : "2005-08-21 20:01:51",
+		"return_date" : "2005-08-26 14:30:51",
+		"customer_id" : 170
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 329,
+		"rental_date" : "2005-07-28 06:42:02",
+		"return_date" : "2005-08-05 11:19:02",
+		"customer_id" : 139
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 329,
+		"rental_date" : "2005-08-18 15:38:31",
+		"return_date" : "2005-08-22 21:29:31",
+		"customer_id" : 119
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 334,
+		"rental_date" : "2005-08-02 08:21:27",
+		"return_date" : "2005-08-06 07:48:27",
+		"customer_id" : 378
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 334,
+		"rental_date" : "2005-08-17 05:36:57",
+		"return_date" : "2005-08-23 01:38:57",
+		"customer_id" : 254
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 335,
+		"rental_date" : "2005-07-31 08:25:13",
+		"return_date" : "2005-08-05 08:22:13",
+		"customer_id" : 584
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 335,
+		"rental_date" : "2005-08-22 00:57:43",
+		"return_date" : "2005-08-26 23:40:43",
+		"customer_id" : 90
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 336,
+		"rental_date" : "2005-07-27 09:13:26",
+		"return_date" : "2005-08-01 10:24:26",
+		"customer_id" : 51
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 336,
+		"rental_date" : "2005-08-18 19:05:49",
+		"return_date" : "2005-08-24 22:12:49",
+		"customer_id" : 329
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 342,
+		"rental_date" : "2005-07-06 15:18:44",
+		"return_date" : "2005-07-12 09:52:44",
+		"customer_id" : 296
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 342,
+		"rental_date" : "2005-08-02 19:52:08",
+		"return_date" : "2005-08-11 18:40:08",
+		"customer_id" : 72
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 342,
+		"rental_date" : "2005-08-19 04:48:48",
+		"return_date" : "2005-08-23 23:32:48",
+		"customer_id" : 25
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 343,
+		"rental_date" : "2005-06-20 02:02:05",
+		"return_date" : "2005-06-25 02:45:05",
+		"customer_id" : 32
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 343,
+		"rental_date" : "2005-07-06 10:12:19",
+		"return_date" : "2005-07-07 14:21:19",
+		"customer_id" : 72
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 343,
+		"rental_date" : "2005-07-29 01:05:16",
+		"return_date" : "2005-08-01 23:27:16",
+		"customer_id" : 274
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 343,
+		"rental_date" : "2005-08-20 08:27:30",
+		"return_date" : "2005-08-26 05:14:30",
+		"customer_id" : 332
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 344,
+		"rental_date" : "2005-07-29 09:05:06",
+		"return_date" : "2005-08-06 05:48:06",
+		"customer_id" : 51
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 344,
+		"rental_date" : "2005-08-17 19:33:49",
+		"return_date" : "2005-08-22 01:16:49",
+		"customer_id" : 573
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 345,
+		"rental_date" : "2005-07-10 13:15:26",
+		"return_date" : "2005-07-15 09:42:26",
+		"customer_id" : 196
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 345,
+		"rental_date" : "2005-07-30 17:31:03",
+		"return_date" : "2005-08-08 19:16:03",
+		"customer_id" : 373
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 345,
+		"rental_date" : "2005-08-21 15:03:45",
+		"return_date" : "2005-08-22 18:06:45",
+		"customer_id" : 433
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 346,
+		"rental_date" : "2005-07-12 19:22:37",
+		"return_date" : "2005-07-21 18:53:37",
+		"customer_id" : 63
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 346,
+		"rental_date" : "2005-07-28 04:46:30",
+		"return_date" : "2005-08-04 08:41:30",
+		"customer_id" : 3
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 346,
+		"rental_date" : "2005-08-23 10:36:00",
+		"return_date" : "2005-08-28 06:18:00",
+		"customer_id" : 206
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 347,
+		"rental_date" : "2005-08-01 13:08:27",
+		"return_date" : "2005-08-02 10:30:27",
+		"customer_id" : 165
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 347,
+		"rental_date" : "2005-08-21 01:53:54",
+		"return_date" : "2005-08-27 05:57:54",
+		"customer_id" : 59
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 348,
+		"rental_date" : "2005-07-29 06:12:40",
+		"return_date" : "2005-08-02 05:01:40",
+		"customer_id" : 220
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 348,
+		"rental_date" : "2005-08-20 15:13:11",
+		"return_date" : "2005-08-21 13:11:11",
+		"customer_id" : 83
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 351,
+		"rental_date" : "2005-06-20 23:27:15",
+		"return_date" : "2005-06-28 01:22:15",
+		"customer_id" : 200
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 351,
+		"rental_date" : "2005-07-11 00:34:11",
+		"return_date" : "2005-07-15 05:37:11",
+		"customer_id" : 127
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 351,
+		"rental_date" : "2005-08-01 23:28:49",
+		"return_date" : "2005-08-10 21:28:49",
+		"customer_id" : 90
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 351,
+		"rental_date" : "2005-08-17 03:41:11",
+		"return_date" : "2005-08-25 01:30:11",
+		"customer_id" : 73
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 352,
+		"rental_date" : "2005-05-31 21:03:17",
+		"return_date" : "2005-06-08 19:58:17",
+		"customer_id" : 326
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 352,
+		"rental_date" : "2005-06-17 20:54:58",
+		"return_date" : "2005-06-24 00:41:58",
+		"customer_id" : 2
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 352,
+		"rental_date" : "2005-07-11 09:25:17",
+		"return_date" : "2005-07-12 05:11:17",
+		"customer_id" : 476
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 352,
+		"rental_date" : "2005-07-28 23:37:57",
+		"return_date" : "2005-08-07 00:29:57",
+		"customer_id" : 509
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 352,
+		"rental_date" : "2005-08-20 02:36:17",
+		"return_date" : "2005-08-24 08:06:17",
+		"customer_id" : 528
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 353,
+		"rental_date" : "2005-05-29 12:59:14",
+		"return_date" : "2005-06-01 16:05:14",
+		"customer_id" : 476
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 353,
+		"rental_date" : "2005-06-20 21:42:29",
+		"return_date" : "2005-06-22 00:36:29",
+		"customer_id" : 464
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 353,
+		"rental_date" : "2005-07-07 12:46:47",
+		"return_date" : "2005-07-15 06:52:47",
+		"customer_id" : 205
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 353,
+		"rental_date" : "2005-07-28 23:10:46",
+		"return_date" : "2005-07-29 18:35:46",
+		"customer_id" : 185
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 353,
+		"rental_date" : "2005-08-22 04:51:42",
+		"return_date" : "2005-08-28 05:37:42",
+		"customer_id" : 273
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 358,
+		"rental_date" : "2005-07-30 11:47:48",
+		"return_date" : "2005-08-02 08:13:48",
+		"customer_id" : 133
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 358,
+		"rental_date" : "2005-08-22 08:56:48",
+		"return_date" : "2005-08-29 08:13:48",
+		"customer_id" : 296
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 359,
+		"rental_date" : "2005-07-10 19:14:58",
+		"return_date" : "2005-07-17 01:13:58",
+		"customer_id" : 482
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 359,
+		"rental_date" : "2005-07-31 11:19:21",
+		"return_date" : "2005-08-08 12:43:21",
+		"customer_id" : 286
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 359,
+		"rental_date" : "2005-08-18 17:02:21",
+		"return_date" : "2005-08-24 22:38:21",
+		"customer_id" : 275
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 360,
+		"rental_date" : "2005-05-27 07:33:54",
+		"return_date" : "2005-06-04 01:55:54",
+		"customer_id" : 134
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 360,
+		"rental_date" : "2005-06-16 10:20:20",
+		"return_date" : "2005-06-18 04:26:20",
+		"customer_id" : 73
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 360,
+		"rental_date" : "2005-07-07 21:13:22",
+		"return_date" : "2005-07-08 22:59:22",
+		"customer_id" : 544
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 360,
+		"rental_date" : "2005-07-31 06:12:08",
+		"return_date" : "2005-08-04 02:19:08",
+		"customer_id" : 13
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 360,
+		"rental_date" : "2005-08-19 10:28:22",
+		"return_date" : "2005-08-22 07:37:22",
+		"customer_id" : 215
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 364,
+		"rental_date" : "2005-07-07 22:28:32",
+		"return_date" : "2005-07-16 02:04:32",
+		"customer_id" : 242
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 364,
+		"rental_date" : "2005-07-31 12:23:18",
+		"return_date" : "2005-08-06 15:59:18",
+		"customer_id" : 388
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 364,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 496
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 365,
+		"rental_date" : "2005-08-02 17:13:26",
+		"return_date" : "2005-08-07 16:44:26",
+		"customer_id" : 38
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 365,
+		"rental_date" : "2005-08-17 00:29:00",
+		"return_date" : "2005-08-22 03:22:00",
+		"customer_id" : 400
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 366,
+		"rental_date" : "2005-07-29 07:06:03",
+		"return_date" : "2005-08-06 12:00:03",
+		"customer_id" : 138
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 366,
+		"rental_date" : "2005-08-22 02:46:18",
+		"return_date" : "2005-08-30 08:22:18",
+		"customer_id" : 499
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 367,
+		"rental_date" : "2005-05-24 22:53:30",
+		"return_date" : "2005-05-26 22:04:30",
+		"customer_id" : 130
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 367,
+		"rental_date" : "2005-06-16 04:03:28",
+		"return_date" : "2005-06-24 22:40:28",
+		"customer_id" : 327
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 367,
+		"rental_date" : "2005-07-06 04:16:43",
+		"return_date" : "2005-07-13 07:08:43",
+		"customer_id" : 207
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 367,
+		"rental_date" : "2005-08-01 11:22:20",
+		"return_date" : "2005-08-04 13:18:20",
+		"customer_id" : 45
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 367,
+		"rental_date" : "2005-08-20 07:34:42",
+		"return_date" : "2005-08-26 05:18:42",
+		"customer_id" : 281
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 368,
+		"rental_date" : "2005-05-26 14:30:24",
+		"return_date" : "2005-05-27 08:50:24",
+		"customer_id" : 539
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 368,
+		"rental_date" : "2005-06-15 10:06:15",
+		"return_date" : "2005-06-20 04:50:15",
+		"customer_id" : 507
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 368,
+		"rental_date" : "2005-07-07 19:19:05",
+		"return_date" : "2005-07-13 13:40:05",
+		"customer_id" : 452
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 368,
+		"rental_date" : "2005-07-31 14:47:57",
+		"return_date" : "2005-08-05 18:20:57",
+		"customer_id" : 122
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 368,
+		"rental_date" : "2005-08-19 09:55:20",
+		"return_date" : "2005-08-24 04:10:20",
+		"customer_id" : 299
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 369,
+		"rental_date" : "2005-07-09 08:05:23",
+		"return_date" : "2005-07-13 12:37:23",
+		"customer_id" : 56
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 369,
+		"rental_date" : "2005-08-01 13:23:06",
+		"return_date" : "2005-08-05 15:30:06",
+		"customer_id" : 21
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 369,
+		"rental_date" : "2005-08-23 04:27:06",
+		"return_date" : "2005-09-01 06:07:06",
+		"customer_id" : 170
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 370,
+		"rental_date" : "2005-07-27 07:58:26",
+		"return_date" : "2005-07-28 02:30:26",
+		"customer_id" : 140
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 370,
+		"rental_date" : "2005-08-23 09:41:28",
+		"return_date" : "2005-08-30 10:11:28",
+		"customer_id" : 491
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 371,
+		"rental_date" : "2005-06-21 22:13:33",
+		"return_date" : "2005-06-25 21:01:33",
+		"customer_id" : 226
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 371,
+		"rental_date" : "2005-07-06 00:43:06",
+		"return_date" : "2005-07-12 06:18:06",
+		"customer_id" : 291
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 371,
+		"rental_date" : "2005-08-01 18:12:35",
+		"return_date" : "2005-08-07 13:06:35",
+		"customer_id" : 596
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 371,
+		"rental_date" : "2005-08-21 12:50:33",
+		"return_date" : "2005-08-30 13:35:33",
+		"customer_id" : 42
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 372,
+		"rental_date" : "2005-05-29 02:26:27",
+		"return_date" : "2005-06-03 04:59:27",
+		"customer_id" : 112
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 372,
+		"rental_date" : "2005-06-18 09:04:59",
+		"return_date" : "2005-06-20 09:39:59",
+		"customer_id" : 289
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 372,
+		"rental_date" : "2005-07-12 13:10:55",
+		"return_date" : "2005-07-21 07:36:55",
+		"customer_id" : 82
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 372,
+		"rental_date" : "2005-07-30 14:39:35",
+		"return_date" : "2005-08-08 11:26:35",
+		"customer_id" : 380
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 372,
+		"rental_date" : "2005-08-22 00:51:25",
+		"return_date" : "2005-08-26 21:15:25",
+		"customer_id" : 94
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 373,
+		"rental_date" : "2005-05-25 17:22:10",
+		"return_date" : "2005-05-31 19:47:10",
+		"customer_id" : 343
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 373,
+		"rental_date" : "2005-06-19 13:56:51",
+		"return_date" : "2005-06-21 17:23:51",
+		"customer_id" : 559
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 373,
+		"rental_date" : "2005-07-09 04:38:51",
+		"return_date" : "2005-07-18 00:33:51",
+		"customer_id" : 512
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 373,
+		"rental_date" : "2005-07-27 04:42:28",
+		"return_date" : "2005-08-04 07:09:28",
+		"customer_id" : 88
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 373,
+		"rental_date" : "2005-08-17 01:11:53",
+		"return_date" : "2005-08-18 23:41:53",
+		"customer_id" : 9
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 374,
+		"rental_date" : "2005-06-15 12:43:43",
+		"return_date" : "2005-06-16 09:55:43",
+		"customer_id" : 190
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 374,
+		"rental_date" : "2005-07-09 23:05:47",
+		"return_date" : "2005-07-16 17:06:47",
+		"customer_id" : 543
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 374,
+		"rental_date" : "2005-07-29 19:38:24",
+		"return_date" : "2005-08-04 16:51:24",
+		"customer_id" : 510
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 374,
+		"rental_date" : "2005-08-20 20:22:47",
+		"return_date" : "2005-08-28 20:40:47",
+		"customer_id" : 284
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 375,
+		"rental_date" : "2005-05-28 11:09:14",
+		"return_date" : "2005-06-01 13:27:14",
+		"customer_id" : 6
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 375,
+		"rental_date" : "2005-06-20 06:05:53",
+		"return_date" : "2005-06-29 03:19:53",
+		"customer_id" : 78
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 375,
+		"rental_date" : "2005-07-12 11:49:16",
+		"return_date" : "2005-07-13 07:03:16",
+		"customer_id" : 439
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 375,
+		"rental_date" : "2005-07-29 08:58:03",
+		"return_date" : "2005-08-02 07:50:03",
+		"customer_id" : 265
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 375,
+		"rental_date" : "2005-08-17 03:48:51",
+		"return_date" : "2005-08-20 03:03:51",
+		"customer_id" : 526
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 376,
+		"rental_date" : "2005-06-19 04:54:13",
+		"return_date" : "2005-06-23 23:28:13",
+		"customer_id" : 456
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 376,
+		"rental_date" : "2005-07-06 09:37:50",
+		"return_date" : "2005-07-09 10:15:50",
+		"customer_id" : 548
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 376,
+		"rental_date" : "2005-07-27 02:15:01",
+		"return_date" : "2005-07-28 07:46:01",
+		"customer_id" : 34
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 376,
+		"rental_date" : "2005-08-21 12:06:32",
+		"return_date" : "2005-08-29 13:44:32",
+		"customer_id" : 447
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 379,
+		"rental_date" : "2005-05-29 16:44:08",
+		"return_date" : "2005-06-06 19:21:08",
+		"customer_id" : 528
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 379,
+		"rental_date" : "2005-06-15 07:32:24",
+		"return_date" : "2005-06-21 05:12:24",
+		"customer_id" : 560
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 379,
+		"rental_date" : "2005-07-06 22:13:45",
+		"return_date" : "2005-07-15 00:22:45",
+		"customer_id" : 307
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 379,
+		"rental_date" : "2005-08-02 12:20:42",
+		"return_date" : "2005-08-06 14:01:42",
+		"customer_id" : 197
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 379,
+		"rental_date" : "2005-08-20 12:11:46",
+		"return_date" : "2005-08-21 06:39:46",
+		"customer_id" : 453
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 380,
+		"rental_date" : "2005-05-25 05:24:58",
+		"return_date" : "2005-05-31 02:47:58",
+		"customer_id" : 523
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 380,
+		"rental_date" : "2005-06-19 13:17:21",
+		"return_date" : "2005-06-24 15:09:21",
+		"customer_id" : 368
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 380,
+		"rental_date" : "2005-07-09 13:12:35",
+		"return_date" : "2005-07-10 13:37:35",
+		"customer_id" : 497
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 380,
+		"rental_date" : "2005-07-29 22:37:49",
+		"return_date" : "2005-08-04 23:32:49",
+		"customer_id" : 125
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 380,
+		"rental_date" : "2005-08-19 18:35:52",
+		"return_date" : "2005-08-23 17:18:52",
+		"customer_id" : 399
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 381,
+		"rental_date" : "2005-07-29 14:45:23",
+		"return_date" : "2005-08-04 18:42:23",
+		"customer_id" : 59
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 381,
+		"rental_date" : "2005-08-20 01:03:50",
+		"return_date" : "2005-08-22 02:33:50",
+		"customer_id" : 390
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 382,
+		"rental_date" : "2005-07-06 21:20:37",
+		"return_date" : "2005-07-09 01:35:37",
+		"customer_id" : 560
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 382,
+		"rental_date" : "2005-08-01 22:03:10",
+		"return_date" : "2005-08-08 01:34:10",
+		"customer_id" : 141
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 382,
+		"rental_date" : "2005-08-21 04:30:47",
+		"return_date" : "2005-08-24 23:01:47",
+		"customer_id" : 511
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 387,
+		"rental_date" : "2005-05-30 07:13:14",
+		"return_date" : "2005-06-06 09:50:14",
+		"customer_id" : 128
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 387,
+		"rental_date" : "2005-06-19 01:10:31",
+		"return_date" : "2005-06-20 05:37:31",
+		"customer_id" : 463
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 387,
+		"rental_date" : "2005-07-10 12:25:11",
+		"return_date" : "2005-07-11 15:23:11",
+		"customer_id" : 479
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 387,
+		"rental_date" : "2005-07-31 00:22:29",
+		"return_date" : "2005-08-07 05:59:29",
+		"customer_id" : 525
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 387,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 60
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 388,
+		"rental_date" : "2005-07-29 05:45:30",
+		"return_date" : "2005-08-05 03:56:30",
+		"customer_id" : 435
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 388,
+		"rental_date" : "2005-08-17 23:55:54",
+		"return_date" : "2005-08-26 23:32:54",
+		"customer_id" : 317
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 389,
+		"rental_date" : "2005-05-25 00:43:11",
+		"return_date" : "2005-05-26 04:42:11",
+		"customer_id" : 316
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 389,
+		"rental_date" : "2005-06-16 07:21:30",
+		"return_date" : "2005-06-17 09:46:30",
+		"customer_id" : 561
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 389,
+		"rental_date" : "2005-07-10 08:44:02",
+		"return_date" : "2005-07-14 05:30:02",
+		"customer_id" : 138
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 389,
+		"rental_date" : "2005-07-30 15:57:04",
+		"return_date" : "2005-08-07 18:46:04",
+		"customer_id" : 453
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 389,
+		"rental_date" : "2005-08-19 09:17:35",
+		"return_date" : "2005-08-23 12:04:35",
+		"customer_id" : 254
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 390,
+		"rental_date" : "2005-05-30 22:59:12",
+		"return_date" : "2005-06-07 20:56:12",
+		"customer_id" : 11
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 390,
+		"rental_date" : "2005-06-16 09:20:33",
+		"return_date" : "2005-06-18 13:42:33",
+		"customer_id" : 352
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 390,
+		"rental_date" : "2005-07-08 14:54:42",
+		"return_date" : "2005-07-12 18:08:42",
+		"customer_id" : 36
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 390,
+		"rental_date" : "2005-07-28 11:46:45",
+		"return_date" : "2005-07-29 07:19:45",
+		"customer_id" : 3
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 390,
+		"rental_date" : "2005-08-20 06:36:46",
+		"return_date" : "2005-08-29 05:17:46",
+		"customer_id" : 390
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 399,
+		"rental_date" : "2005-05-25 21:48:30",
+		"return_date" : "2005-05-30 00:26:30",
+		"customer_id" : 237
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 399,
+		"rental_date" : "2005-06-17 05:10:36",
+		"return_date" : "2005-06-19 03:52:36",
+		"customer_id" : 358
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 399,
+		"rental_date" : "2005-07-10 11:37:28",
+		"return_date" : "2005-07-16 11:10:28",
+		"customer_id" : 447
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 399,
+		"rental_date" : "2005-07-27 03:20:18",
+		"return_date" : "2005-08-01 02:23:18",
+		"customer_id" : 188
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 399,
+		"rental_date" : "2005-08-22 12:01:48",
+		"return_date" : "2005-08-27 16:12:48",
+		"customer_id" : 155
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 400,
+		"rental_date" : "2005-07-10 06:02:25",
+		"return_date" : "2005-07-16 07:33:25",
+		"customer_id" : 546
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 400,
+		"rental_date" : "2005-07-27 20:51:49",
+		"return_date" : "2005-07-29 18:21:49",
+		"customer_id" : 44
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 400,
+		"rental_date" : "2005-08-22 23:21:22",
+		"return_date" : "2005-08-28 22:21:22",
+		"customer_id" : 227
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 401,
+		"rental_date" : "2005-07-27 19:05:40",
+		"return_date" : "2005-08-05 14:47:40",
+		"customer_id" : 341
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 401,
+		"rental_date" : "2005-08-20 13:46:38",
+		"return_date" : "2005-08-29 13:07:38",
+		"customer_id" : 436
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 405,
+		"rental_date" : "2005-07-29 15:49:48",
+		"return_date" : "2005-08-06 17:59:48",
+		"customer_id" : 495
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 405,
+		"rental_date" : "2005-08-19 17:41:16",
+		"return_date" : "2005-08-23 20:22:16",
+		"customer_id" : 159
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 406,
+		"rental_date" : "2005-07-12 13:07:55",
+		"return_date" : "2005-07-16 16:26:55",
+		"customer_id" : 80
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 406,
+		"rental_date" : "2005-07-29 23:04:25",
+		"return_date" : "2005-08-05 22:12:25",
+		"customer_id" : 294
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 406,
+		"rental_date" : "2005-08-19 07:06:51",
+		"return_date" : "2005-08-28 10:35:51",
+		"customer_id" : 148
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 407,
+		"rental_date" : "2005-05-30 21:30:52",
+		"return_date" : "2005-06-07 16:22:52",
+		"customer_id" : 154
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 407,
+		"rental_date" : "2005-06-17 22:52:37",
+		"return_date" : "2005-06-20 22:00:37",
+		"customer_id" : 329
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 407,
+		"rental_date" : "2005-07-07 23:45:38",
+		"return_date" : "2005-07-09 20:02:38",
+		"customer_id" : 567
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 407,
+		"rental_date" : "2005-07-31 22:02:20",
+		"return_date" : "2005-08-04 02:09:20",
+		"customer_id" : 441
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 407,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 33
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 411,
+		"rental_date" : "2005-08-01 10:53:16",
+		"return_date" : "2005-08-08 10:34:16",
+		"customer_id" : 525
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 411,
+		"rental_date" : "2005-08-20 10:05:30",
+		"return_date" : "2005-08-27 07:43:30",
+		"customer_id" : 110
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 412,
+		"rental_date" : "2005-07-12 00:23:01",
+		"return_date" : "2005-07-17 22:45:01",
+		"customer_id" : 211
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 412,
+		"rental_date" : "2005-07-29 11:02:08",
+		"return_date" : "2005-08-06 15:06:08",
+		"customer_id" : 542
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 412,
+		"rental_date" : "2005-08-21 20:46:47",
+		"return_date" : "2005-08-22 22:25:47",
+		"customer_id" : 206
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 413,
+		"rental_date" : "2005-07-28 17:15:48",
+		"return_date" : "2005-08-04 15:49:48",
+		"customer_id" : 220
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 413,
+		"rental_date" : "2005-08-22 00:39:31",
+		"return_date" : "2005-08-28 20:08:31",
+		"customer_id" : 156
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 414,
+		"rental_date" : "2005-07-08 20:37:11",
+		"return_date" : "2005-07-10 21:53:11",
+		"customer_id" : 32
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 414,
+		"rental_date" : "2005-07-30 21:40:15",
+		"return_date" : "2005-08-04 15:45:15",
+		"customer_id" : 535
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 414,
+		"rental_date" : "2005-08-18 19:07:23",
+		"return_date" : "2005-08-27 17:20:23",
+		"customer_id" : 21
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 419,
+		"rental_date" : "2005-07-07 18:22:30",
+		"return_date" : "2005-07-13 18:20:30",
+		"customer_id" : 535
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 419,
+		"rental_date" : "2005-07-31 03:05:48",
+		"return_date" : "2005-08-01 05:50:48",
+		"customer_id" : 141
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 419,
+		"rental_date" : "2005-08-19 01:15:24",
+		"return_date" : "2005-08-20 06:38:24",
+		"customer_id" : 426
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 420,
+		"rental_date" : "2005-07-27 06:23:36",
+		"return_date" : "2005-07-28 10:23:36",
+		"customer_id" : 81
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 420,
+		"rental_date" : "2005-08-19 10:49:03",
+		"return_date" : "2005-08-21 05:33:03",
+		"customer_id" : 13
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 426,
+		"rental_date" : "2005-07-31 09:29:33",
+		"return_date" : "2005-08-09 07:32:33",
+		"customer_id" : 511
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 426,
+		"rental_date" : "2005-08-19 01:15:47",
+		"return_date" : "2005-08-22 05:32:47",
+		"customer_id" : 316
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 427,
+		"rental_date" : "2005-07-10 22:52:42",
+		"return_date" : "2005-07-11 21:52:42",
+		"customer_id" : 374
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 427,
+		"rental_date" : "2005-08-01 15:33:19",
+		"return_date" : "2005-08-05 17:27:19",
+		"customer_id" : 285
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 427,
+		"rental_date" : "2005-08-20 16:05:11",
+		"return_date" : "2005-08-23 15:14:11",
+		"customer_id" : 204
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 428,
+		"rental_date" : "2005-06-17 17:17:19",
+		"return_date" : "2005-06-22 14:57:19",
+		"customer_id" : 92
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 428,
+		"rental_date" : "2005-07-08 18:54:07",
+		"return_date" : "2005-07-17 15:09:07",
+		"customer_id" : 123
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 428,
+		"rental_date" : "2005-08-02 06:41:38",
+		"return_date" : "2005-08-09 04:34:38",
+		"customer_id" : 189
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 428,
+		"rental_date" : "2005-08-23 15:16:32",
+		"return_date" : "2005-08-29 12:20:32",
+		"customer_id" : 327
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 429,
+		"rental_date" : "2005-07-30 01:35:01",
+		"return_date" : "2005-08-06 06:13:01",
+		"customer_id" : 391
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 429,
+		"rental_date" : "2005-08-19 19:52:52",
+		"return_date" : "2005-08-20 18:56:52",
+		"customer_id" : 576
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 433,
+		"rental_date" : "2005-07-12 05:22:06",
+		"return_date" : "2005-07-15 00:04:06",
+		"customer_id" : 54
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 433,
+		"rental_date" : "2005-07-31 17:12:23",
+		"return_date" : "2005-08-01 21:04:23",
+		"customer_id" : 432
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 433,
+		"rental_date" : "2005-08-19 10:15:19",
+		"return_date" : "2005-08-21 06:51:19",
+		"customer_id" : 241
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 434,
+		"rental_date" : "2005-05-27 10:37:27",
+		"return_date" : "2005-05-30 05:45:27",
+		"customer_id" : 28
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 434,
+		"rental_date" : "2005-06-17 17:13:32",
+		"return_date" : "2005-06-19 16:16:32",
+		"customer_id" : 254
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 434,
+		"rental_date" : "2005-07-06 13:22:53",
+		"return_date" : "2005-07-10 11:54:53",
+		"customer_id" : 338
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 434,
+		"rental_date" : "2005-08-02 08:34:40",
+		"return_date" : "2005-08-09 04:56:40",
+		"customer_id" : 344
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 434,
+		"rental_date" : "2005-08-18 07:21:47",
+		"return_date" : "2005-08-25 04:41:47",
+		"customer_id" : 186
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 435,
+		"rental_date" : "2005-05-26 15:42:20",
+		"return_date" : "2005-05-31 13:21:20",
+		"customer_id" : 21
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 435,
+		"rental_date" : "2005-06-15 21:12:13",
+		"return_date" : "2005-06-18 21:43:13",
+		"customer_id" : 336
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 435,
+		"rental_date" : "2005-07-09 02:59:10",
+		"return_date" : "2005-07-15 07:54:10",
+		"customer_id" : 524
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 435,
+		"rental_date" : "2005-07-27 17:18:35",
+		"return_date" : "2005-08-02 11:18:35",
+		"customer_id" : 263
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 435,
+		"rental_date" : "2005-08-19 00:59:42",
+		"return_date" : "2005-08-25 21:43:42",
+		"customer_id" : 588
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 436,
+		"rental_date" : "2005-07-09 20:55:47",
+		"return_date" : "2005-07-15 15:15:47",
+		"customer_id" : 409
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 436,
+		"rental_date" : "2005-07-31 14:00:32",
+		"return_date" : "2005-08-05 19:16:32",
+		"customer_id" : 549
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 436,
+		"rental_date" : "2005-08-16 22:52:30",
+		"return_date" : "2005-08-21 19:52:30",
+		"customer_id" : 12
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 437,
+		"rental_date" : "2005-07-28 19:55:21",
+		"return_date" : "2005-08-02 21:52:21",
+		"customer_id" : 281
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 437,
+		"rental_date" : "2005-08-21 02:35:16",
+		"return_date" : "2005-08-27 01:32:16",
+		"customer_id" : 147
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 438,
+		"rental_date" : "2005-07-07 21:35:16",
+		"return_date" : "2005-07-15 16:13:16",
+		"customer_id" : 448
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 438,
+		"rental_date" : "2005-07-31 18:48:08",
+		"return_date" : "2005-08-09 19:11:08",
+		"customer_id" : 58
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 438,
+		"rental_date" : "2005-08-23 20:29:10",
+		"return_date" : "2005-08-28 01:41:10",
+		"customer_id" : 595
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 439,
+		"rental_date" : "2005-07-07 06:31:00",
+		"return_date" : "2005-07-09 03:52:00",
+		"customer_id" : 423
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 439,
+		"rental_date" : "2005-07-28 12:47:20",
+		"return_date" : "2005-08-01 08:46:20",
+		"customer_id" : 566
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 439,
+		"rental_date" : "2005-08-17 08:31:03",
+		"return_date" : "2005-08-21 05:44:03",
+		"customer_id" : 251
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 442,
+		"rental_date" : "2005-06-21 00:34:56",
+		"return_date" : "2005-06-29 23:30:56",
+		"customer_id" : 158
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 442,
+		"rental_date" : "2005-07-08 19:51:17",
+		"return_date" : "2005-07-12 16:02:17",
+		"customer_id" : 233
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 442,
+		"rental_date" : "2005-07-31 13:22:51",
+		"return_date" : "2005-08-05 16:04:51",
+		"customer_id" : 195
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 442,
+		"rental_date" : "2005-08-22 05:16:16",
+		"return_date" : "2005-08-30 02:47:16",
+		"customer_id" : 128
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 443,
+		"rental_date" : "2005-05-30 19:23:48",
+		"return_date" : "2005-05-31 21:14:48",
+		"customer_id" : 551
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 443,
+		"rental_date" : "2005-06-16 08:35:39",
+		"return_date" : "2005-06-17 05:37:39",
+		"customer_id" : 86
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 443,
+		"rental_date" : "2005-07-06 22:05:47",
+		"return_date" : "2005-07-16 01:08:47",
+		"customer_id" : 414
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 443,
+		"rental_date" : "2005-07-29 16:46:07",
+		"return_date" : "2005-08-02 19:27:07",
+		"customer_id" : 291
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 443,
+		"rental_date" : "2005-08-18 05:05:28",
+		"return_date" : "2005-08-26 09:02:28",
+		"customer_id" : 575
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 444,
+		"rental_date" : "2005-06-21 07:09:44",
+		"return_date" : "2005-06-30 11:26:44",
+		"customer_id" : 492
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 444,
+		"rental_date" : "2005-07-12 18:51:41",
+		"return_date" : "2005-07-20 13:29:41",
+		"customer_id" : 220
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 444,
+		"rental_date" : "2005-07-30 17:05:29",
+		"return_date" : "2005-08-01 12:47:29",
+		"customer_id" : 96
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 444,
+		"rental_date" : "2005-08-20 12:53:46",
+		"return_date" : "2005-08-21 10:36:46",
+		"customer_id" : 341
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 445,
+		"rental_date" : "2005-07-08 16:08:51",
+		"return_date" : "2005-07-17 17:56:51",
+		"customer_id" : 436
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 445,
+		"rental_date" : "2005-08-01 15:37:48",
+		"return_date" : "2005-08-02 12:11:48",
+		"customer_id" : 592
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 445,
+		"rental_date" : "2005-08-23 07:53:38",
+		"return_date" : "2005-08-29 03:16:38",
+		"customer_id" : 172
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 446,
+		"rental_date" : "2005-07-12 11:20:12",
+		"return_date" : "2005-07-20 12:58:12",
+		"customer_id" : 598
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 446,
+		"rental_date" : "2005-08-01 19:57:06",
+		"return_date" : "2005-08-07 18:04:06",
+		"customer_id" : 307
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 446,
+		"rental_date" : "2005-08-18 20:11:35",
+		"return_date" : "2005-08-25 18:29:35",
+		"customer_id" : 483
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 447,
+		"rental_date" : "2005-06-19 04:36:03",
+		"return_date" : "2005-06-28 00:38:03",
+		"customer_id" : 66
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 447,
+		"rental_date" : "2005-07-06 08:36:34",
+		"return_date" : "2005-07-15 04:25:34",
+		"customer_id" : 373
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 447,
+		"rental_date" : "2005-07-28 10:37:20",
+		"return_date" : "2005-08-02 05:08:20",
+		"customer_id" : 526
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 447,
+		"rental_date" : "2005-08-19 00:02:46",
+		"return_date" : "2005-08-20 04:39:46",
+		"customer_id" : 513
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 451,
+		"rental_date" : "2005-05-29 14:07:58",
+		"return_date" : "2005-06-03 08:41:58",
+		"customer_id" : 360
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 451,
+		"rental_date" : "2005-06-21 19:14:58",
+		"return_date" : "2005-06-24 19:58:58",
+		"customer_id" : 591
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 451,
+		"rental_date" : "2005-07-09 05:45:40",
+		"return_date" : "2005-07-15 05:31:40",
+		"customer_id" : 289
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 451,
+		"rental_date" : "2005-07-30 19:11:49",
+		"return_date" : "2005-08-04 18:14:49",
+		"customer_id" : 86
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 451,
+		"rental_date" : "2005-08-20 11:29:32",
+		"return_date" : "2005-08-23 17:25:32",
+		"customer_id" : 566
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 452,
+		"rental_date" : "2005-05-28 16:58:09",
+		"return_date" : "2005-06-01 14:02:09",
+		"customer_id" : 584
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 452,
+		"rental_date" : "2005-06-18 21:10:44",
+		"return_date" : "2005-06-19 20:39:44",
+		"customer_id" : 122
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 452,
+		"rental_date" : "2005-07-10 18:39:16",
+		"return_date" : "2005-07-15 21:19:16",
+		"customer_id" : 429
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 452,
+		"rental_date" : "2005-07-27 19:19:53",
+		"return_date" : "2005-08-02 01:01:53",
+		"customer_id" : 344
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 452,
+		"rental_date" : "2005-08-18 10:01:50",
+		"return_date" : "2005-08-22 08:14:50",
+		"customer_id" : 477
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 453,
+		"rental_date" : "2005-07-08 02:45:19",
+		"return_date" : "2005-07-12 03:04:19",
+		"customer_id" : 16
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 453,
+		"rental_date" : "2005-07-30 23:55:20",
+		"return_date" : "2005-08-02 02:47:20",
+		"customer_id" : 125
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 453,
+		"rental_date" : "2005-08-20 02:00:33",
+		"return_date" : "2005-08-28 21:03:33",
+		"customer_id" : 15
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 454,
+		"rental_date" : "2005-08-01 20:39:32",
+		"return_date" : "2005-08-10 19:41:32",
+		"customer_id" : 273
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 454,
+		"rental_date" : "2005-08-18 01:06:13",
+		"return_date" : "2005-08-22 19:39:13",
+		"customer_id" : 457
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 457,
+		"rental_date" : "2005-06-16 09:17:07",
+		"return_date" : "2005-06-24 06:31:07",
+		"customer_id" : 427
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 457,
+		"rental_date" : "2005-07-10 18:35:14",
+		"return_date" : "2005-07-19 19:41:14",
+		"customer_id" : 484
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 457,
+		"rental_date" : "2005-07-27 07:11:14",
+		"return_date" : "2005-08-05 06:55:14",
+		"customer_id" : 191
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 457,
+		"rental_date" : "2005-08-20 19:08:32",
+		"return_date" : "2005-08-29 23:45:32",
+		"customer_id" : 231
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 458,
+		"rental_date" : "2005-05-28 01:01:21",
+		"return_date" : "2005-05-30 21:20:21",
+		"customer_id" : 287
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 458,
+		"rental_date" : "2005-06-20 21:02:38",
+		"return_date" : "2005-06-27 19:34:38",
+		"customer_id" : 450
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 458,
+		"rental_date" : "2005-07-12 05:20:35",
+		"return_date" : "2005-07-16 08:44:35",
+		"customer_id" : 353
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 458,
+		"rental_date" : "2005-07-29 13:55:11",
+		"return_date" : "2005-08-05 11:16:11",
+		"customer_id" : 142
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 458,
+		"rental_date" : "2005-08-19 14:40:32",
+		"return_date" : "2005-08-26 18:15:32",
+		"customer_id" : 202
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 459,
+		"rental_date" : "2005-07-08 23:00:07",
+		"return_date" : "2005-07-09 21:47:07",
+		"customer_id" : 14
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 459,
+		"rental_date" : "2005-07-30 00:14:45",
+		"return_date" : "2005-08-02 22:34:45",
+		"customer_id" : 564
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 459,
+		"rental_date" : "2005-08-19 04:10:50",
+		"return_date" : "2005-08-27 23:24:50",
+		"customer_id" : 257
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 460,
+		"rental_date" : "2005-05-31 22:37:34",
+		"return_date" : "2005-06-01 23:02:34",
+		"customer_id" : 106
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 460,
+		"rental_date" : "2005-06-19 00:45:56",
+		"return_date" : "2005-06-21 00:54:56",
+		"customer_id" : 89
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 460,
+		"rental_date" : "2005-07-08 23:54:49",
+		"return_date" : "2005-07-16 00:15:49",
+		"customer_id" : 64
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 460,
+		"rental_date" : "2005-07-27 08:14:34",
+		"return_date" : "2005-07-31 05:24:34",
+		"customer_id" : 215
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 460,
+		"rental_date" : "2005-08-17 08:29:46",
+		"return_date" : "2005-08-23 14:21:46",
+		"customer_id" : 137
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 465,
+		"rental_date" : "2005-07-11 11:46:57",
+		"return_date" : "2005-07-19 14:11:57",
+		"customer_id" : 189
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 465,
+		"rental_date" : "2005-07-28 21:36:52",
+		"return_date" : "2005-08-04 00:32:52",
+		"customer_id" : 359
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 465,
+		"rental_date" : "2005-08-21 03:48:31",
+		"return_date" : "2005-08-24 07:10:31",
+		"customer_id" : 381
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 466,
+		"rental_date" : "2005-05-25 12:30:15",
+		"return_date" : "2005-05-27 15:40:15",
+		"customer_id" : 131
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 466,
+		"rental_date" : "2005-06-17 17:35:10",
+		"return_date" : "2005-06-26 13:52:10",
+		"customer_id" : 398
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 466,
+		"rental_date" : "2005-07-12 02:28:40",
+		"return_date" : "2005-07-17 05:58:40",
+		"customer_id" : 590
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 466,
+		"rental_date" : "2005-07-29 08:17:51",
+		"return_date" : "2005-08-03 13:41:51",
+		"customer_id" : 203
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 466,
+		"rental_date" : "2005-08-17 02:53:14",
+		"return_date" : "2005-08-26 02:05:14",
+		"customer_id" : 350
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 467,
+		"rental_date" : "2005-06-21 01:00:25",
+		"return_date" : "2005-06-23 06:10:25",
+		"customer_id" : 75
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 467,
+		"rental_date" : "2005-07-06 13:11:33",
+		"return_date" : "2005-07-14 17:54:33",
+		"customer_id" : 567
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 467,
+		"rental_date" : "2005-07-27 23:18:22",
+		"return_date" : "2005-07-30 23:08:22",
+		"customer_id" : 440
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 467,
+		"rental_date" : "2005-08-23 21:49:22",
+		"return_date" : "2005-08-27 00:47:22",
+		"customer_id" : 484
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 468,
+		"rental_date" : "2005-05-31 06:42:30",
+		"return_date" : "2005-06-03 04:33:30",
+		"customer_id" : 179
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 468,
+		"rental_date" : "2005-06-20 01:50:56",
+		"return_date" : "2005-06-22 05:05:56",
+		"customer_id" : 7
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 468,
+		"rental_date" : "2005-07-12 20:50:48",
+		"return_date" : "2005-07-19 16:00:48",
+		"customer_id" : 596
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 468,
+		"rental_date" : "2005-08-02 10:19:42",
+		"return_date" : "2005-08-04 08:42:42",
+		"customer_id" : 555
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 468,
+		"rental_date" : "2005-08-22 10:46:44",
+		"return_date" : "2005-08-27 09:40:44",
+		"customer_id" : 510
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 476,
+		"rental_date" : "2005-07-08 07:44:49",
+		"return_date" : "2005-07-09 04:47:49",
+		"customer_id" : 581
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 476,
+		"rental_date" : "2005-08-01 03:05:59",
+		"return_date" : "2005-08-06 06:23:59",
+		"customer_id" : 49
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 476,
+		"rental_date" : "2005-08-21 17:56:06",
+		"return_date" : "2005-08-24 18:35:06",
+		"customer_id" : 394
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 477,
+		"rental_date" : "2005-08-02 18:35:55",
+		"return_date" : "2005-08-09 21:56:55",
+		"customer_id" : 369
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 477,
+		"rental_date" : "2005-08-21 19:39:43",
+		"return_date" : "2005-08-26 22:39:43",
+		"customer_id" : 244
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 481,
+		"rental_date" : "2005-06-17 02:25:12",
+		"return_date" : "2005-06-23 03:16:12",
+		"customer_id" : 204
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 481,
+		"rental_date" : "2005-07-10 05:09:52",
+		"return_date" : "2005-07-13 07:08:52",
+		"customer_id" : 131
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 481,
+		"rental_date" : "2005-07-29 22:14:56",
+		"return_date" : "2005-08-05 23:36:56",
+		"customer_id" : 594
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 481,
+		"rental_date" : "2005-08-22 19:17:24",
+		"return_date" : "2005-08-25 00:25:24",
+		"customer_id" : 233
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 482,
+		"rental_date" : "2005-07-07 18:34:36",
+		"return_date" : "2005-07-10 17:58:36",
+		"customer_id" : 532
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 482,
+		"rental_date" : "2005-07-27 08:57:40",
+		"return_date" : "2005-08-04 09:55:40",
+		"customer_id" : 598
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 482,
+		"rental_date" : "2005-08-20 05:58:58",
+		"return_date" : "2005-08-27 08:35:58",
+		"customer_id" : 513
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 485,
+		"rental_date" : "2005-05-26 20:20:47",
+		"return_date" : "2005-06-03 02:06:47",
+		"customer_id" : 577
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 485,
+		"rental_date" : "2005-06-20 01:07:16",
+		"return_date" : "2005-06-24 01:05:16",
+		"customer_id" : 267
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 485,
+		"rental_date" : "2005-07-11 12:43:07",
+		"return_date" : "2005-07-16 07:23:07",
+		"customer_id" : 23
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 485,
+		"rental_date" : "2005-07-27 19:24:16",
+		"return_date" : "2005-08-05 18:49:16",
+		"customer_id" : 348
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 485,
+		"rental_date" : "2005-08-19 12:04:16",
+		"return_date" : "2005-08-26 16:06:16",
+		"customer_id" : 206
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 486,
+		"rental_date" : "2005-07-11 18:04:26",
+		"return_date" : "2005-07-20 14:22:26",
+		"customer_id" : 208
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 486,
+		"rental_date" : "2005-07-31 14:24:33",
+		"return_date" : "2005-08-09 11:11:33",
+		"customer_id" : 218
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 486,
+		"rental_date" : "2005-08-21 18:51:28",
+		"return_date" : "2005-08-29 19:30:28",
+		"customer_id" : 494
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 487,
+		"rental_date" : "2005-05-28 07:16:25",
+		"return_date" : "2005-06-01 08:36:25",
+		"customer_id" : 20
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 487,
+		"rental_date" : "2005-06-20 04:12:46",
+		"return_date" : "2005-06-26 23:34:46",
+		"customer_id" : 588
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 487,
+		"rental_date" : "2005-07-09 21:34:32",
+		"return_date" : "2005-07-16 02:21:32",
+		"customer_id" : 241
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 487,
+		"rental_date" : "2005-07-27 12:38:14",
+		"return_date" : "2005-07-30 13:01:14",
+		"customer_id" : 313
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 487,
+		"rental_date" : "2005-08-16 22:52:54",
+		"return_date" : "2005-08-25 03:27:54",
+		"customer_id" : 482
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 488,
+		"rental_date" : "2005-07-07 14:39:20",
+		"return_date" : "2005-07-13 08:57:20",
+		"customer_id" : 120
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 488,
+		"rental_date" : "2005-07-27 15:23:02",
+		"return_date" : "2005-08-04 10:35:02",
+		"customer_id" : 2
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 488,
+		"rental_date" : "2005-08-19 22:16:16",
+		"return_date" : "2005-08-25 19:01:16",
+		"customer_id" : 139
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 493,
+		"rental_date" : "2005-06-21 20:39:39",
+		"return_date" : "2005-06-25 23:44:39",
+		"customer_id" : 45
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 493,
+		"rental_date" : "2005-07-06 16:54:12",
+		"return_date" : "2005-07-11 22:49:12",
+		"customer_id" : 436
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 493,
+		"rental_date" : "2005-07-31 21:33:03",
+		"return_date" : "2005-08-01 19:10:03",
+		"customer_id" : 178
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 493,
+		"rental_date" : "2005-08-18 07:37:05",
+		"return_date" : "2005-08-24 10:49:05",
+		"customer_id" : 529
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 494,
+		"rental_date" : "2005-07-11 01:51:58",
+		"return_date" : "2005-07-18 07:12:58",
+		"customer_id" : 470
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 494,
+		"rental_date" : "2005-07-30 16:18:39",
+		"return_date" : "2005-08-03 12:46:39",
+		"customer_id" : 102
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 494,
+		"rental_date" : "2005-08-17 16:12:27",
+		"return_date" : "2005-08-25 22:07:27",
+		"customer_id" : 485
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 495,
+		"rental_date" : "2005-05-28 18:43:26",
+		"return_date" : "2005-05-30 13:39:26",
+		"customer_id" : 465
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 495,
+		"rental_date" : "2005-06-19 03:45:39",
+		"return_date" : "2005-06-25 08:43:39",
+		"customer_id" : 486
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 495,
+		"rental_date" : "2005-07-09 15:26:27",
+		"return_date" : "2005-07-15 10:03:27",
+		"customer_id" : 109
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 495,
+		"rental_date" : "2005-07-30 14:26:11",
+		"return_date" : "2005-08-04 16:12:11",
+		"customer_id" : 33
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 495,
+		"rental_date" : "2005-08-17 19:19:44",
+		"return_date" : "2005-08-23 00:56:44",
+		"customer_id" : 313
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 496,
+		"rental_date" : "2005-07-12 22:26:56",
+		"return_date" : "2005-07-17 20:03:56",
+		"customer_id" : 361
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 496,
+		"rental_date" : "2005-07-30 07:58:12",
+		"return_date" : "2005-08-08 06:04:12",
+		"customer_id" : 447
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 496,
+		"rental_date" : "2005-08-21 15:57:25",
+		"return_date" : "2005-08-28 11:10:25",
+		"customer_id" : 521
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 501,
+		"rental_date" : "2005-07-12 15:16:00",
+		"return_date" : "2005-07-20 13:20:00",
+		"customer_id" : 502
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 501,
+		"rental_date" : "2005-07-27 23:06:41",
+		"return_date" : "2005-07-31 20:08:41",
+		"customer_id" : 352
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 501,
+		"rental_date" : "2005-08-18 19:55:09",
+		"return_date" : "2005-08-26 14:17:09",
+		"customer_id" : 385
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 502,
+		"rental_date" : "2005-07-10 12:42:43",
+		"return_date" : "2005-07-16 10:18:43",
+		"customer_id" : 363
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 502,
+		"rental_date" : "2005-07-28 18:32:46",
+		"return_date" : "2005-08-06 15:00:46",
+		"customer_id" : 506
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 502,
+		"rental_date" : "2005-08-22 20:51:24",
+		"return_date" : "2005-08-24 23:41:24",
+		"customer_id" : 13
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 503,
+		"rental_date" : "2005-05-26 12:30:22",
+		"return_date" : "2005-05-27 06:49:22",
+		"customer_id" : 211
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 503,
+		"rental_date" : "2005-06-21 07:32:25",
+		"return_date" : "2005-06-28 06:26:25",
+		"customer_id" : 444
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 503,
+		"rental_date" : "2005-07-08 10:41:06",
+		"return_date" : "2005-07-17 10:35:06",
+		"customer_id" : 585
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 503,
+		"rental_date" : "2005-07-29 16:44:48",
+		"return_date" : "2005-08-06 16:28:48",
+		"customer_id" : 345
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 503,
+		"rental_date" : "2005-08-23 00:49:24",
+		"return_date" : "2005-08-26 02:09:24",
+		"customer_id" : 379
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 504,
+		"rental_date" : "2005-07-31 03:19:28",
+		"return_date" : "2005-08-01 07:30:28",
+		"customer_id" : 97
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 504,
+		"rental_date" : "2005-08-18 07:41:43",
+		"return_date" : "2005-08-20 03:46:43",
+		"customer_id" : 16
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 512,
+		"rental_date" : "2005-06-17 21:28:14",
+		"return_date" : "2005-06-22 01:16:14",
+		"customer_id" : 254
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 512,
+		"rental_date" : "2005-07-11 14:56:57",
+		"return_date" : "2005-07-16 14:35:57",
+		"customer_id" : 241
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 512,
+		"rental_date" : "2005-07-29 12:14:18",
+		"return_date" : "2005-08-03 08:31:18",
+		"customer_id" : 516
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 512,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 587
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 513,
+		"rental_date" : "2005-06-16 23:20:16",
+		"return_date" : "2005-06-20 02:34:16",
+		"customer_id" : 31
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 513,
+		"rental_date" : "2005-07-11 19:51:35",
+		"return_date" : "2005-07-12 19:13:35",
+		"customer_id" : 147
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 513,
+		"rental_date" : "2005-07-29 16:01:13",
+		"return_date" : "2005-08-07 19:21:13",
+		"customer_id" : 315
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 513,
+		"rental_date" : "2005-08-21 03:38:27",
+		"return_date" : "2005-08-28 09:16:27",
+		"customer_id" : 25
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 514,
+		"rental_date" : "2005-07-10 20:41:41",
+		"return_date" : "2005-07-14 00:12:41",
+		"customer_id" : 323
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 514,
+		"rental_date" : "2005-08-02 19:46:38",
+		"return_date" : "2005-08-11 14:49:38",
+		"customer_id" : 444
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 514,
+		"rental_date" : "2005-08-21 04:51:51",
+		"return_date" : "2005-08-29 00:37:51",
+		"customer_id" : 392
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 515,
+		"rental_date" : "2005-05-29 11:38:34",
+		"return_date" : "2005-06-02 17:04:34",
+		"customer_id" : 69
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 515,
+		"rental_date" : "2005-06-15 15:40:56",
+		"return_date" : "2005-06-17 10:39:56",
+		"customer_id" : 278
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 515,
+		"rental_date" : "2005-07-12 09:47:58",
+		"return_date" : "2005-07-16 15:43:58",
+		"customer_id" : 273
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 515,
+		"rental_date" : "2005-07-27 16:42:30",
+		"return_date" : "2005-08-05 17:38:30",
+		"customer_id" : 302
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 515,
+		"rental_date" : "2005-08-20 12:13:24",
+		"return_date" : "2005-08-28 07:24:24",
+		"customer_id" : 94
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 519,
+		"rental_date" : "2005-08-02 18:24:03",
+		"return_date" : "2005-08-06 21:22:03",
+		"customer_id" : 183
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 519,
+		"rental_date" : "2005-08-17 08:09:00",
+		"return_date" : "2005-08-18 09:50:00",
+		"customer_id" : 45
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 520,
+		"rental_date" : "2005-07-29 11:56:30",
+		"return_date" : "2005-08-07 15:41:30",
+		"customer_id" : 328
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 520,
+		"rental_date" : "2005-08-19 10:48:10",
+		"return_date" : "2005-08-28 06:15:10",
+		"customer_id" : 508
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 521,
+		"rental_date" : "2005-08-02 16:07:49",
+		"return_date" : "2005-08-10 13:22:49",
+		"customer_id" : 108
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 521,
+		"rental_date" : "2005-08-22 19:46:36",
+		"return_date" : "2005-08-27 14:09:36",
+		"customer_id" : 340
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 526,
+		"rental_date" : "2005-08-02 08:25:14",
+		"return_date" : "2005-08-03 08:41:14",
+		"customer_id" : 207
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 526,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 15
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 527,
+		"rental_date" : "2005-07-12 01:35:40",
+		"return_date" : "2005-07-20 20:11:40",
+		"customer_id" : 594
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 527,
+		"rental_date" : "2005-07-27 07:36:34",
+		"return_date" : "2005-08-04 05:05:34",
+		"customer_id" : 284
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 527,
+		"rental_date" : "2005-08-19 10:01:07",
+		"return_date" : "2005-08-26 14:26:07",
+		"customer_id" : 578
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 532,
+		"rental_date" : "2005-07-07 06:39:43",
+		"return_date" : "2005-07-10 06:30:43",
+		"customer_id" : 517
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 532,
+		"rental_date" : "2005-07-31 03:01:11",
+		"return_date" : "2005-08-05 06:01:11",
+		"customer_id" : 22
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 532,
+		"rental_date" : "2005-08-18 01:28:18",
+		"return_date" : "2005-08-23 21:17:18",
+		"customer_id" : 81
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 533,
+		"rental_date" : "2005-05-29 14:17:17",
+		"return_date" : "2005-06-06 16:46:17",
+		"customer_id" : 105
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 533,
+		"rental_date" : "2005-06-16 02:19:02",
+		"return_date" : "2005-06-17 22:36:02",
+		"customer_id" : 54
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 533,
+		"rental_date" : "2005-07-07 14:38:52",
+		"return_date" : "2005-07-15 12:05:52",
+		"customer_id" : 150
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 533,
+		"rental_date" : "2005-07-28 10:33:22",
+		"return_date" : "2005-08-02 12:10:22",
+		"customer_id" : 249
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 533,
+		"rental_date" : "2005-08-20 02:33:17",
+		"return_date" : "2005-08-23 22:40:17",
+		"customer_id" : 186
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 534,
+		"rental_date" : "2005-07-29 04:50:22",
+		"return_date" : "2005-08-05 08:50:22",
+		"customer_id" : 416
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 534,
+		"rental_date" : "2005-08-17 22:38:31",
+		"return_date" : "2005-08-20 01:56:31",
+		"customer_id" : 545
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 535,
+		"rental_date" : "2005-05-25 16:50:20",
+		"return_date" : "2005-05-28 18:52:20",
+		"customer_id" : 44
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 535,
+		"rental_date" : "2005-06-16 14:29:59",
+		"return_date" : "2005-06-24 17:27:59",
+		"customer_id" : 477
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 535,
+		"rental_date" : "2005-07-08 23:46:57",
+		"return_date" : "2005-07-15 18:47:57",
+		"customer_id" : 432
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 535,
+		"rental_date" : "2005-07-30 03:21:05",
+		"return_date" : "2005-08-02 05:24:05",
+		"customer_id" : 278
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 535,
+		"rental_date" : "2005-08-22 06:01:26",
+		"return_date" : "2005-08-24 10:33:26",
+		"customer_id" : 153
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 538,
+		"rental_date" : "2005-06-21 12:25:07",
+		"return_date" : "2005-06-27 11:52:07",
+		"customer_id" : 261
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 538,
+		"rental_date" : "2005-07-12 04:23:06",
+		"return_date" : "2005-07-17 00:20:06",
+		"customer_id" : 65
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 538,
+		"rental_date" : "2005-08-02 21:42:07",
+		"return_date" : "2005-08-03 21:44:07",
+		"customer_id" : 577
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 538,
+		"rental_date" : "2005-08-22 23:02:15",
+		"return_date" : "2005-09-01 01:14:15",
+		"customer_id" : 410
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 539,
+		"rental_date" : "2005-06-20 15:57:01",
+		"return_date" : "2005-06-25 13:15:01",
+		"customer_id" : 151
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 539,
+		"rental_date" : "2005-07-07 17:38:31",
+		"return_date" : "2005-07-09 20:24:31",
+		"customer_id" : 184
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 539,
+		"rental_date" : "2005-07-29 10:52:51",
+		"return_date" : "2005-08-07 11:44:51",
+		"customer_id" : 180
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 539,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 29
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 540,
+		"rental_date" : "2005-07-30 08:39:23",
+		"return_date" : "2005-08-01 03:33:23",
+		"customer_id" : 216
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 540,
+		"rental_date" : "2005-08-18 20:24:46",
+		"return_date" : "2005-08-23 21:50:46",
+		"customer_id" : 397
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 541,
+		"rental_date" : "2005-07-11 07:23:47",
+		"return_date" : "2005-07-20 03:17:47",
+		"customer_id" : 405
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 541,
+		"rental_date" : "2005-07-28 07:13:20",
+		"return_date" : "2005-08-06 05:43:20",
+		"customer_id" : 539
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 541,
+		"rental_date" : "2005-08-21 14:39:58",
+		"return_date" : "2005-08-26 13:19:58",
+		"customer_id" : 520
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 544,
+		"rental_date" : "2005-08-01 19:39:08",
+		"return_date" : "2005-08-10 20:37:08",
+		"customer_id" : 377
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 544,
+		"rental_date" : "2005-08-23 03:55:54",
+		"return_date" : "2005-08-24 03:54:54",
+		"customer_id" : 169
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 545,
+		"rental_date" : "2005-07-28 10:40:24",
+		"return_date" : "2005-08-01 16:18:24",
+		"customer_id" : 378
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 545,
+		"rental_date" : "2005-08-23 22:18:51",
+		"return_date" : "2005-08-31 19:55:51",
+		"customer_id" : 78
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 546,
+		"rental_date" : "2005-07-09 05:02:35",
+		"return_date" : "2005-07-15 01:22:35",
+		"customer_id" : 408
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 546,
+		"rental_date" : "2005-07-31 01:23:00",
+		"return_date" : "2005-08-01 01:16:00",
+		"customer_id" : 488
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 546,
+		"rental_date" : "2005-08-19 23:07:42",
+		"return_date" : "2005-08-26 20:45:42",
+		"customer_id" : 311
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 551,
+		"rental_date" : "2005-07-29 10:29:16",
+		"return_date" : "2005-08-01 06:52:16",
+		"customer_id" : 542
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 551,
+		"rental_date" : "2005-08-23 00:05:57",
+		"return_date" : "2005-09-01 05:08:57",
+		"customer_id" : 259
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 552,
+		"rental_date" : "2005-07-10 05:34:10",
+		"return_date" : "2005-07-14 02:49:10",
+		"customer_id" : 310
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 552,
+		"rental_date" : "2005-08-02 07:38:44",
+		"return_date" : "2005-08-11 06:30:44",
+		"customer_id" : 371
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 553,
+		"rental_date" : "2005-05-27 12:48:38",
+		"return_date" : "2005-05-29 15:27:38",
+		"customer_id" : 204
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 553,
+		"rental_date" : "2005-06-18 19:36:50",
+		"return_date" : "2005-06-23 22:48:50",
+		"customer_id" : 147
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 553,
+		"rental_date" : "2005-07-06 16:01:16",
+		"return_date" : "2005-07-15 19:35:16",
+		"customer_id" : 310
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 553,
+		"rental_date" : "2005-08-01 10:13:41",
+		"return_date" : "2005-08-03 10:27:41",
+		"customer_id" : 560
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 553,
+		"rental_date" : "2005-08-21 08:18:18",
+		"return_date" : "2005-08-30 02:21:18",
+		"customer_id" : 457
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 554,
+		"rental_date" : "2005-07-27 19:36:15",
+		"return_date" : "2005-08-05 14:14:15",
+		"customer_id" : 365
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 554,
+		"rental_date" : "2005-08-17 00:44:04",
+		"return_date" : "2005-08-18 03:43:04",
+		"customer_id" : 431
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 555,
+		"rental_date" : "2005-08-02 04:35:24",
+		"return_date" : "2005-08-09 07:34:24",
+		"customer_id" : 597
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 555,
+		"rental_date" : "2005-08-22 13:19:19",
+		"return_date" : "2005-08-27 17:09:19",
+		"customer_id" : 284
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 556,
+		"rental_date" : "2005-06-21 14:34:51",
+		"return_date" : "2005-06-28 18:19:51",
+		"customer_id" : 119
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 556,
+		"rental_date" : "2005-07-06 22:38:49",
+		"return_date" : "2005-07-07 23:33:49",
+		"customer_id" : 495
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 556,
+		"rental_date" : "2005-07-29 14:52:59",
+		"return_date" : "2005-08-06 11:09:59",
+		"customer_id" : 307
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 556,
+		"rental_date" : "2005-08-23 11:55:50",
+		"return_date" : "2005-08-30 15:07:50",
+		"customer_id" : 38
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 560,
+		"rental_date" : "2005-06-21 18:31:09",
+		"return_date" : "2005-06-22 14:18:09",
+		"customer_id" : 561
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 560,
+		"rental_date" : "2005-07-11 09:25:52",
+		"return_date" : "2005-07-17 07:40:52",
+		"customer_id" : 361
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 560,
+		"rental_date" : "2005-08-02 08:20:01",
+		"return_date" : "2005-08-03 13:22:01",
+		"customer_id" : 447
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 560,
+		"rental_date" : "2005-08-22 23:26:32",
+		"return_date" : "2005-08-24 22:44:32",
+		"customer_id" : 188
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 561,
+		"rental_date" : "2005-06-17 14:38:11",
+		"return_date" : "2005-06-26 13:44:11",
+		"customer_id" : 391
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 561,
+		"rental_date" : "2005-07-08 03:40:46",
+		"return_date" : "2005-07-13 06:53:46",
+		"customer_id" : 29
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 561,
+		"rental_date" : "2005-08-01 02:08:05",
+		"return_date" : "2005-08-02 01:52:05",
+		"customer_id" : 192
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 561,
+		"rental_date" : "2005-08-23 21:17:17",
+		"return_date" : "2005-08-26 21:15:17",
+		"customer_id" : 462
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 562,
+		"rental_date" : "2005-06-21 07:33:40",
+		"return_date" : "2005-06-29 06:02:40",
+		"customer_id" : 594
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 562,
+		"rental_date" : "2005-07-09 23:51:57",
+		"return_date" : "2005-07-11 05:28:57",
+		"customer_id" : 479
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 562,
+		"rental_date" : "2005-07-29 03:00:08",
+		"return_date" : "2005-08-01 04:26:08",
+		"customer_id" : 101
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 562,
+		"rental_date" : "2005-08-18 18:13:05",
+		"return_date" : "2005-08-27 16:00:05",
+		"customer_id" : 500
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 563,
+		"rental_date" : "2005-07-07 21:12:45",
+		"return_date" : "2005-07-16 18:24:45",
+		"customer_id" : 156
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 563,
+		"rental_date" : "2005-07-28 12:33:21",
+		"return_date" : "2005-07-30 13:31:21",
+		"customer_id" : 520
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 563,
+		"rental_date" : "2005-08-20 15:09:16",
+		"return_date" : "2005-08-28 10:00:16",
+		"customer_id" : 167
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 567,
+		"rental_date" : "2005-08-01 02:20:01",
+		"return_date" : "2005-08-06 23:06:01",
+		"customer_id" : 51
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 567,
+		"rental_date" : "2005-08-17 01:28:43",
+		"return_date" : "2005-08-24 20:20:43",
+		"customer_id" : 558
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 568,
+		"rental_date" : "2005-07-09 20:33:50",
+		"return_date" : "2005-07-14 01:50:50",
+		"customer_id" : 219
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 568,
+		"rental_date" : "2005-07-27 08:03:22",
+		"return_date" : "2005-08-01 02:47:22",
+		"customer_id" : 190
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 568,
+		"rental_date" : "2005-08-17 18:07:13",
+		"return_date" : "2005-08-19 23:12:13",
+		"customer_id" : 255
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 580,
+		"rental_date" : "2005-06-20 04:20:14",
+		"return_date" : "2005-06-21 01:13:14",
+		"customer_id" : 132
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 580,
+		"rental_date" : "2005-07-11 05:49:18",
+		"return_date" : "2005-07-15 07:26:18",
+		"customer_id" : 383
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 580,
+		"rental_date" : "2005-08-01 00:39:05",
+		"return_date" : "2005-08-05 01:07:05",
+		"customer_id" : 421
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 580,
+		"rental_date" : "2005-08-19 11:25:10",
+		"return_date" : "2005-08-21 05:52:10",
+		"customer_id" : 26
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 581,
+		"rental_date" : "2005-05-29 09:22:57",
+		"return_date" : "2005-06-01 09:10:57",
+		"customer_id" : 152
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 581,
+		"rental_date" : "2005-06-19 07:33:00",
+		"return_date" : "2005-06-28 03:05:00",
+		"customer_id" : 478
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 581,
+		"rental_date" : "2005-07-07 15:01:53",
+		"return_date" : "2005-07-08 09:43:53",
+		"customer_id" : 335
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 581,
+		"rental_date" : "2005-07-29 05:52:26",
+		"return_date" : "2005-08-04 08:12:26",
+		"customer_id" : 32
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 581,
+		"rental_date" : "2006-02-14 15:16:03",
+		"return_date" : null,
+		"customer_id" : 279
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 582,
+		"rental_date" : "2005-07-12 00:37:02",
+		"return_date" : "2005-07-17 22:05:02",
+		"customer_id" : 385
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 582,
+		"rental_date" : "2005-07-27 05:53:50",
+		"return_date" : "2005-08-05 04:19:50",
+		"customer_id" : 591
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 582,
+		"rental_date" : "2005-08-17 05:56:27",
+		"return_date" : "2005-08-24 08:50:27",
+		"customer_id" : 306
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 583,
+		"rental_date" : "2005-07-07 00:58:54",
+		"return_date" : "2005-07-12 02:40:54",
+		"customer_id" : 510
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 583,
+		"rental_date" : "2005-08-01 23:38:34",
+		"return_date" : "2005-08-07 02:36:34",
+		"customer_id" : 593
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 583,
+		"rental_date" : "2005-08-19 14:27:03",
+		"return_date" : "2005-08-28 09:15:03",
+		"customer_id" : 472
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 588,
+		"rental_date" : "2005-08-01 04:22:49",
+		"return_date" : "2005-08-09 04:39:49",
+		"customer_id" : 240
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 588,
+		"rental_date" : "2005-08-19 21:07:59",
+		"return_date" : "2005-08-21 17:08:59",
+		"customer_id" : 288
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 589,
+		"rental_date" : "2005-08-02 02:20:19",
+		"return_date" : "2005-08-11 05:50:19",
+		"customer_id" : 540
+	},
+	{
+		"store_id" : 1,
+		"manager_staff_id" : 1,
+		"inventory_id" : 589,
+		"rental_date" : "2005-08-20 23:35:13",
+		"return_date" : "2005-08-28 01:41:13",
+		"customer_id" : 392
+	}
+]
